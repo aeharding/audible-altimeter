@@ -5,13 +5,12 @@
 
 #define LED_PIN (13)
 
-#define ON_GROUND 0
-#define IN_AIR    1
-#define SKYDIVING 2
-
 SFE_BMP180 pressure;
 
-double baseline; // baseline pressure
+
+enum period_t sleepPeriod; // how long the processor should sleep for
+double basePressure, previousPressure, previousAltitude; // pressure (mb): 0 AGL
+
 //3.33 fpm elevator
 
 void BMPSetup() {
@@ -30,38 +29,9 @@ void BMPSetup() {
 
   // Get the baseline pressure:
   
-  baseline = getPressure();
+  basePressure = getPressure();
+  previousPressure = basePressure;
 }
-
-
-
-struct state;
-typedef void state_fn(struct state *);
-
-struct state
-{
-    state_fn * next;
-//    int i; // data
-    enum period_t sleepPeriod; // how long the processor should sleep for the state
-    float baseAltitude; // altitude, in m, above MSL == 0 AGL
-};
-
-state_fn foo, bar;
-
-void foo(struct state * state)
-{
-    Serial.println(__func__);
-    state->next = bar;
-}
-
-void bar(struct state * state)
-{
-    Serial.println( __func__);
-    state->next = foo;
-}
-
-struct state state = { foo, SLEEP_8S };
-
 
 /***************************************************
  *  Name:        setup
@@ -85,6 +55,8 @@ void setup()
 
   BMPSetup();
 
+  sleepPeriod = SLEEP_8S;
+
   Serial.println("Initialisation complete.");
   delay(100); //Allow for serial print to complete.
 }
@@ -102,87 +74,41 @@ void setup()
  ***************************************************/
 void loop()
 {
-  if (!state.next) state = { foo, SLEEP_8S};
-
+  double currentPressure, currentAltitude;
+  
   /* Toggle the LED */
   digitalWrite(LED_PIN, HIGH);
 
-  // execute the next step
-  state.next(&state);
+  currentPressure = getPressure();
+  currentAltitude = pressure.altitude(currentPressure, basePressure);
+
+  if (currentAltitude < 2 && currentAltitude > -2) {
+    sleepPeriod = SLEEP_8S;
+    // consider this noise, set as base
+    basePressure = currentPressure;
+  } else {
+    // we're in the air
+    sleepPeriod = SLEEP_1S;
+
+    // human falls at 53 m/s
+    // open canopy, full flight 5 m/s
+    // refresh rate is 1 s on arduino
+    while (previousAltitude - currentAltitude > 35 && // m/s
+           currentAltitude < 1370) { // 4500 ft
+      // beep and wait for slowing down
+      tone(2, 2048);
+      LowPower.powerSave(SLEEP_1S, ADC_OFF, BOD_ON, TIMER2_ON);
+      noTone(2);
+    }
+  }
+  
+  previousPressure = currentPressure;
+  previousAltitude = currentAltitude;
 
   digitalWrite(LED_PIN, LOW);
   
-  LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
-
+  LowPower.powerDown(sleepPeriod, ADC_OFF, BOD_ON);
 }
-
-
-
-
-void getAltitude() {
-  
-  double newAlt,P;
-
-  // Get a new pressure reading:
-
-  P = getPressure();
-
-  // Show the relative altitude difference between
-  // the new reading and the baseline reading:
-
-  newAlt = pressure.altitude(P,baseline);
-
-  baseline = P;
-}
-
-//void inPlane() {
-//  if (speed > 80) {
-//    WDT1Sec();
-//    state = SKYDIVING;
-//  }
-//}
-//
-//void skydiving() {
-//  if (oldAlt - newAlt > 8.0) {
-//    // We are descending quickly!
-//    if (absAlt < ALERT_THRESHOLD) {
-//      state = ALERTING;
-//    } else {
-//      state = SKYDIVING;
-//    }
-//  }
-//}
-//
-//void alert() {
-//  while (still descending > 80 mph) {
-//    // alert
-//  }
-//  else {
-//    // go ON_GROUND
-//  }
-//}
-//
-//void onGround() {
-//
-//  delay(100);
-//  Serial.print("relative altitude: ");
-//  if (newAlt >= 0.0) Serial.print(" "); // add a space for positive numbers
-//  Serial.println(newAlt,1);
-//  Serial.print(oldAlt);
-//  Serial.print(" ");
-//  Serial.print(newAlt);
-//  Serial.print(" ");
-//  Serial.println(oldAlt - newAlt);
-//  delay(100);
-//
-//
-//}
-
-void inAir() {
-  
-}
-
-
 
 
 
