@@ -10,7 +10,7 @@ SFE_BMP180 pressure;
 
 enum period_t sleepPeriod; // how long the processor should sleep for
 double basePressure, previousPressure, previousAltitude; // pressure (mb): 0 AGL
-
+boolean inPlaneTriggered;
 //3.33 fpm elevator
 
 void BMPSetup() {
@@ -54,13 +54,13 @@ void setup()
   delay(100); //Allow for serial print to complete.
 
   BMPSetup();
+  inPlaneTriggered = false;
 
   sleepPeriod = SLEEP_8S;
 
   Serial.println("Initialisation complete.");
   delay(100); //Allow for serial print to complete.
 }
-
 
 /***************************************************
  *  Name:        loop
@@ -80,25 +80,38 @@ void loop()
   digitalWrite(LED_PIN, HIGH);
 
   currentPressure = getPressure();
+  
+  Serial.print("Current pressure:");
+  Serial.println(currentPressure);
+  
   currentAltitude = pressure.altitude(currentPressure, basePressure);
+  
+  Serial.print("Current altitude:");
+  Serial.println(currentAltitude);
 
-  if (currentAltitude < 2 && currentAltitude > -2) {
+  if (currentAltitude < 5 && currentAltitude > -5 && !inPlaneTriggered) {
+    Serial.println("On ground - adjusting for altitude");
     sleepPeriod = SLEEP_8S;
     // consider this noise, set as base
     basePressure = currentPressure;
   } else {
+    Serial.println("In plane");
+    inPlaneTriggered = true;
     // we're in the air
     sleepPeriod = SLEEP_1S;
 
     // human falls at 53 m/s
     // open canopy, full flight 5 m/s
     // refresh rate is 1 s on arduino
-    while (previousAltitude - currentAltitude > 35 && // m/s
-           currentAltitude < 1370) { // 4500 ft
+    Serial.print("DIFF:");
+    Serial.println(previousAltitude - currentAltitude);
+    if (previousAltitude - currentAltitude > 5 && // m/s
+           currentAltitude < 1524) { // 3000 ft
+      Serial.println("TRIGGER!");
       // beep and wait for slowing down
-      tone(2, 2048);
-      LowPower.powerSave(SLEEP_1S, ADC_OFF, BOD_ON, TIMER2_ON);
-      noTone(2);
+//      tone(2, 2048);
+//      LowPower.powerSave(SLEEP_1S, ADC_OFF, BOD_ON, TIMER2_ON);
+//      noTone(2);
     }
   }
   
@@ -106,6 +119,8 @@ void loop()
   previousAltitude = currentAltitude;
 
   digitalWrite(LED_PIN, LOW);
+
+  delay(100); // for console
   
   LowPower.powerDown(sleepPeriod, ADC_OFF, BOD_ON);
 }
