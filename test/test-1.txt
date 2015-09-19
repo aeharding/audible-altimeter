@@ -1,0 +1,5377 @@
+Initialising...
+BMP180 init success
+Initialisation complete.
+Current pressure:983.21
+Current altitude:0.28
+On ground - adjusting for altitude
+Current pressure:982.93
+Current altitude:2.38
+On ground - adjusting for altitude
+Current pressure:983.22
+Current altitude:-2.53
+On ground - adjusting for altitude
+Current pressure:983.18
+Current altitude:0.42
+On ground - adjusting for altitude
+Current pressure:982.87
+Current altitude:2.60
+On ground - adjusting for altitude
+Current pressure:983.08
+Current altitude:-1.80
+On ground - adjusting for altitude
+Current pressure:983.03
+Current altitude:0.47
+On ground - adjusting for altitude
+Current pressure:982.94
+Current altitude:0.76
+On ground - adjusting for altitude
+Current pressure:983.25
+Current altitude:-2.66
+On ground - adjusting for altitude
+Current pressure:983.34
+Current altitude:-0.76
+On ground - adjusting for altitude
+Current pressure:983.40
+Current altitude:-0.58
+On ground - adjusting for altitude
+Current pressure:983.30
+Current altitude:0.89
+On ground - adjusting for altitude
+Current pressure:983.18
+Current altitude:1.00
+On ground - adjusting for altitude
+Current pressure:983.12
+Current altitude:0.58
+On ground - adjusting for altitude
+Current pressure:983.25
+Current altitude:-1.14
+On ground - adjusting for altitude
+Current pressure:983.11
+Current altitude:1.22
+On ground - adjusting for altitude
+Current pressure:983.02
+Current altitude:0.72
+On ground - adjusting for altitude
+Current pressure:982.96
+Current altitude:0.55
+On ground - adjusting for altitude
+Current pressure:983.03
+Current altitude:-0.60
+On ground - adjusting for altitude
+Current pressure:983.02
+Current altitude:0.04
+On ground - adjusting for altitude
+Current pressure:983.03
+Current altitude:-0.07
+On ground - adjusting for altitude
+Current pressure:982.98
+Current altitude:0.40
+On ground - adjusting for altitude
+Current pressure:982.97
+Current altitude:0.10
+On ground - adjusting for altitude
+Current pressure:982.97
+Current altitude:0.07
+On ground - adjusting for altitude
+Current pressure:982.67
+Current altitude:2.51
+On ground - adjusting for altitude
+Current pressure:982.79
+Current altitude:-0.98
+On ground - adjusting for altitude
+Current pressure:982.52
+Current altitude:2.26
+On ground - adjusting for altitude
+Current pressure:983.46
+Current altitude:-8.02
+In plane
+DIFF:10.28
+TRIGGER!
+Current pressure:983.51
+Current altitude:-8.50
+In plane
+DIFF:0.48
+Current pressure:984.11
+Current altitude:-13.61
+In plane
+DIFF:5.12
+TRIGGER!
+Current pressure:983.69
+Current altitude:-10.01
+In plane
+DIFF:-3.60
+Current pressure:984.08
+Current altitude:-13.38
+In plane
+DIFF:3.37
+Current pressure:983.83
+Current altitude:-11.25
+In plane
+DIFF:-2.13
+Current pressure:983.78
+Current altitude:-10.75
+In plane
+DIFF:-0.49
+Current pressure:983.61
+Current altitude:-9.35
+In plane
+DIFF:-1.40
+Current pressure:983.51
+Current altitude:-8.43
+In plane
+DIFF:-0.92
+Current pressure:983.37
+Current altitude:-7.29
+In plane
+DIFF:-1.14
+Current pressure:982.98
+Current altitude:-3.96
+In plane
+DIFF:-3.33
+Current pressure:982.91
+Current altitude:-3.30
+In plane
+DIFF:-0.66
+Current pressure:983.03
+Current altitude:-4.31
+In plane
+DIFF:1.00
+Current pressure:982.63
+Current altitude:-0.96
+In plane
+DIFF:-3.35
+Current pressure:982.16
+Current altitude:3.08
+In plane
+DIFF:-4.04
+Current pressure:981.56
+Current altitude:8.25
+In plane
+DIFF:-5.17
+Current pressure:980.64
+Current altitude:16.22
+In plane
+DIFF:-7.97
+Current pressure:979.80
+Current altitude:23.38
+In plane
+DIFF:-7.17
+Current pressure:979.60
+Current altitude:25.11
+In plane
+DIFF:-1.73
+Current pressure:979.65
+Current altitude:24.68
+In plane
+DIFF:0.43
+Current pressure:979.63
+Current altitude:24.87
+In plane
+DIFF:-0.19
+Current pressure:979.32
+Current altitude:27.57
+In plane
+DIFF:-2.70
+Current pressure:978.88
+Current altitude:31.35
+In plane
+DIFF:-3.78
+Current pressure:978.44
+Current altitude:35.14
+In plane
+DIFF:-3.80
+Current pressure:977.95
+Current altitude:39.31
+In plane
+DIFF:-4.17
+Current pressure:977.67
+Current altitude:41.77
+In plane
+DIFF:-2.46
+Current pressure:977.57
+Current altitude:42.64
+In plane
+DIFF:-0.87
+Current pressure:976.91
+Current altitude:48.32
+In plane
+DIFF:-5.68
+Current pressure:976.80
+Current altitude:49.25
+In plane
+DIFF:-0.93
+Current pressure:975.77
+Current altitude:58.15
+In plane
+DIFF:-8.90
+Current pressure:975.72
+Current altitude:58.62
+In plane
+DIFF:-0.47
+Current pressure:974.88
+Current altitude:65.81
+In plane
+DIFF:-7.19
+Current pressure:974.59
+Current altitude:68.36
+In plane
+DIFF:-2.54
+Current pressure:974.20
+Current altitude:71.72
+In plane
+DIFF:-3.37
+Current pressure:973.49
+Current altitude:77.86
+In plane
+DIFF:-6.14
+Current pressure:972.99
+Current altitude:82.18
+In plane
+DIFF:-4.32
+Current pressure:972.86
+Current altitude:83.27
+In plane
+DIFF:-1.09
+Current pressure:972.46
+Current altitude:86.75
+In plane
+DIFF:-3.48
+Current pressure:972.09
+Current altitude:90.01
+In plane
+DIFF:-3.26
+Current pressure:971.76
+Current altitude:92.80
+In plane
+DIFF:-2.79
+Current pressure:971.35
+Current altitude:96.35
+In plane
+DIFF:-3.55
+Current pressure:971.20
+Current altitude:97.68
+In plane
+DIFF:-1.33
+Current pressure:970.76
+Current altitude:101.51
+In plane
+DIFF:-3.82
+Current pressure:970.40
+Current altitude:104.62
+In plane
+DIFF:-3.12
+Current pressure:969.97
+Current altitude:108.38
+In plane
+DIFF:-3.76
+Current pressure:969.66
+Current altitude:111.05
+In plane
+DIFF:-2.67
+Current pressure:969.24
+Current altitude:114.71
+In plane
+DIFF:-3.66
+Current pressure:968.71
+Current altitude:119.24
+In plane
+DIFF:-4.53
+Current pressure:967.93
+Current altitude:126.07
+In plane
+DIFF:-6.82
+Current pressure:967.44
+Current altitude:130.34
+In plane
+DIFF:-4.27
+Current pressure:967.21
+Current altitude:132.28
+In plane
+DIFF:-1.94
+Current pressure:967.10
+Current altitude:133.29
+In plane
+DIFF:-1.01
+Current pressure:966.87
+Current altitude:135.27
+In plane
+DIFF:-1.98
+Current pressure:966.43
+Current altitude:139.06
+In plane
+DIFF:-3.79
+Current pressure:965.92
+Current altitude:143.52
+In plane
+DIFF:-4.45
+Current pressure:965.75
+Current altitude:145.04
+In plane
+DIFF:-1.52
+Current pressure:964.88
+Current altitude:152.59
+In plane
+DIFF:-7.55
+Current pressure:964.89
+Current altitude:152.53
+In plane
+DIFF:0.07
+Current pressure:964.21
+Current altitude:158.48
+In plane
+DIFF:-5.96
+Current pressure:964.00
+Current altitude:160.24
+In plane
+DIFF:-1.76
+Current pressure:963.58
+Current altitude:163.92
+In plane
+DIFF:-3.68
+Current pressure:963.12
+Current altitude:167.93
+In plane
+DIFF:-4.01
+Current pressure:962.72
+Current altitude:171.48
+In plane
+DIFF:-3.54
+Current pressure:962.72
+Current altitude:171.43
+In plane
+DIFF:0.04
+Current pressure:962.50
+Current altitude:173.38
+In plane
+DIFF:-1.95
+Current pressure:962.16
+Current altitude:176.32
+In plane
+DIFF:-2.94
+Current pressure:961.01
+Current altitude:186.39
+In plane
+DIFF:-10.08
+Current pressure:960.58
+Current altitude:190.12
+In plane
+DIFF:-3.72
+Current pressure:959.96
+Current altitude:195.54
+In plane
+DIFF:-5.42
+Current pressure:959.39
+Current altitude:200.53
+In plane
+DIFF:-4.99
+Current pressure:958.86
+Current altitude:205.22
+In plane
+DIFF:-4.69
+Current pressure:958.66
+Current altitude:206.95
+In plane
+DIFF:-1.73
+Current pressure:958.22
+Current altitude:210.78
+In plane
+DIFF:-3.83
+Current pressure:958.08
+Current altitude:211.99
+In plane
+DIFF:-1.20
+Current pressure:957.77
+Current altitude:214.73
+In plane
+DIFF:-2.75
+Current pressure:957.20
+Current altitude:219.72
+In plane
+DIFF:-4.99
+Current pressure:956.79
+Current altitude:223.34
+In plane
+DIFF:-3.61
+Current pressure:956.32
+Current altitude:227.43
+In plane
+DIFF:-4.09
+Current pressure:955.13
+Current altitude:237.89
+In plane
+DIFF:-10.46
+Current pressure:955.04
+Current altitude:238.72
+In plane
+DIFF:-0.83
+Current pressure:954.24
+Current altitude:245.73
+In plane
+DIFF:-7.01
+Current pressure:953.38
+Current altitude:253.28
+In plane
+DIFF:-7.55
+Current pressure:953.01
+Current altitude:256.55
+In plane
+DIFF:-3.27
+Current pressure:952.56
+Current altitude:260.47
+In plane
+DIFF:-3.92
+Current pressure:952.25
+Current altitude:263.23
+In plane
+DIFF:-2.76
+Current pressure:952.00
+Current altitude:265.46
+In plane
+DIFF:-2.24
+Current pressure:951.49
+Current altitude:269.93
+In plane
+DIFF:-4.47
+Current pressure:951.26
+Current altitude:271.99
+In plane
+DIFF:-2.06
+Current pressure:950.59
+Current altitude:277.90
+In plane
+DIFF:-5.91
+Current pressure:950.20
+Current altitude:281.25
+In plane
+DIFF:-3.36
+Current pressure:949.63
+Current altitude:286.32
+In plane
+DIFF:-5.07
+Current pressure:949.50
+Current altitude:287.50
+In plane
+DIFF:-1.17
+Current pressure:948.41
+Current altitude:297.14
+In plane
+DIFF:-9.64
+Current pressure:948.45
+Current altitude:296.71
+In plane
+DIFF:0.43
+Current pressure:947.46
+Current altitude:305.54
+In plane
+DIFF:-8.83
+Current pressure:947.38
+Current altitude:306.21
+In plane
+DIFF:-0.67
+Current pressure:946.54
+Current altitude:313.59
+In plane
+DIFF:-7.38
+Current pressure:946.25
+Current altitude:316.24
+In plane
+DIFF:-2.64
+Current pressure:945.73
+Current altitude:320.79
+In plane
+DIFF:-4.56
+Current pressure:944.73
+Current altitude:329.65
+In plane
+DIFF:-8.85
+Current pressure:944.11
+Current altitude:335.16
+In plane
+DIFF:-5.51
+Current pressure:943.56
+Current altitude:340.01
+In plane
+DIFF:-4.85
+Current pressure:943.33
+Current altitude:342.05
+In plane
+DIFF:-2.05
+Current pressure:943.10
+Current altitude:344.16
+In plane
+DIFF:-2.11
+Current pressure:942.85
+Current altitude:346.30
+In plane
+DIFF:-2.14
+Current pressure:942.55
+Current altitude:348.99
+In plane
+DIFF:-2.70
+Current pressure:942.03
+Current altitude:353.65
+In plane
+DIFF:-4.66
+Current pressure:941.75
+Current altitude:356.09
+In plane
+DIFF:-2.44
+Current pressure:940.77
+Current altitude:364.81
+In plane
+DIFF:-8.72
+Current pressure:940.23
+Current altitude:369.64
+In plane
+DIFF:-4.83
+Current pressure:939.56
+Current altitude:375.55
+In plane
+DIFF:-5.91
+Current pressure:939.12
+Current altitude:379.48
+In plane
+DIFF:-3.93
+Current pressure:938.10
+Current altitude:388.62
+In plane
+DIFF:-9.15
+Current pressure:937.78
+Current altitude:391.48
+In plane
+DIFF:-2.86
+Current pressure:937.41
+Current altitude:394.72
+In plane
+DIFF:-3.24
+Current pressure:937.01
+Current altitude:398.35
+In plane
+DIFF:-3.63
+Current pressure:936.83
+Current altitude:399.94
+In plane
+DIFF:-1.59
+Current pressure:936.64
+Current altitude:401.62
+In plane
+DIFF:-1.68
+Current pressure:936.33
+Current altitude:404.38
+In plane
+DIFF:-2.76
+Current pressure:935.67
+Current altitude:410.28
+In plane
+DIFF:-5.90
+Current pressure:934.74
+Current altitude:418.63
+In plane
+DIFF:-8.35
+Current pressure:933.94
+Current altitude:425.74
+In plane
+DIFF:-7.12
+Current pressure:933.13
+Current altitude:433.01
+In plane
+DIFF:-7.26
+Current pressure:932.50
+Current altitude:438.66
+In plane
+DIFF:-5.65
+Current pressure:931.84
+Current altitude:444.55
+In plane
+DIFF:-5.89
+Current pressure:931.17
+Current altitude:450.54
+In plane
+DIFF:-5.99
+Current pressure:930.78
+Current altitude:454.01
+In plane
+DIFF:-3.47
+Current pressure:930.60
+Current altitude:455.70
+In plane
+DIFF:-1.69
+Current pressure:930.11
+Current altitude:460.10
+In plane
+DIFF:-4.40
+Current pressure:929.74
+Current altitude:463.39
+In plane
+DIFF:-3.29
+Current pressure:929.21
+Current altitude:468.11
+In plane
+DIFF:-4.71
+Current pressure:928.35
+Current altitude:475.87
+In plane
+DIFF:-7.76
+Current pressure:927.51
+Current altitude:483.44
+In plane
+DIFF:-7.57
+Current pressure:926.99
+Current altitude:488.09
+In plane
+DIFF:-4.65
+Current pressure:926.15
+Current altitude:495.69
+In plane
+DIFF:-7.60
+Current pressure:925.52
+Current altitude:501.35
+In plane
+DIFF:-5.66
+Current pressure:924.74
+Current altitude:508.36
+In plane
+DIFF:-7.01
+Current pressure:924.20
+Current altitude:513.21
+In plane
+DIFF:-4.86
+Current pressure:924.01
+Current altitude:514.99
+In plane
+DIFF:-1.78
+Current pressure:923.82
+Current altitude:516.71
+In plane
+DIFF:-1.73
+Current pressure:923.77
+Current altitude:517.12
+In plane
+DIFF:-0.41
+Current pressure:923.35
+Current altitude:520.91
+In plane
+DIFF:-3.78
+Current pressure:923.16
+Current altitude:522.59
+In plane
+DIFF:-1.68
+Current pressure:922.56
+Current altitude:528.04
+In plane
+DIFF:-5.45
+Current pressure:922.19
+Current altitude:531.39
+In plane
+DIFF:-3.36
+Current pressure:921.52
+Current altitude:537.48
+In plane
+DIFF:-6.09
+Current pressure:921.05
+Current altitude:541.68
+In plane
+DIFF:-4.20
+Current pressure:920.66
+Current altitude:545.20
+In plane
+DIFF:-3.52
+Current pressure:920.18
+Current altitude:549.55
+In plane
+DIFF:-4.35
+Current pressure:919.65
+Current altitude:554.33
+In plane
+DIFF:-4.78
+Current pressure:919.02
+Current altitude:560.07
+In plane
+DIFF:-5.74
+Current pressure:918.42
+Current altitude:565.52
+In plane
+DIFF:-5.45
+Current pressure:917.81
+Current altitude:571.07
+In plane
+DIFF:-5.56
+Current pressure:916.83
+Current altitude:579.91
+In plane
+DIFF:-8.83
+Current pressure:916.34
+Current altitude:584.35
+In plane
+DIFF:-4.45
+Current pressure:916.10
+Current altitude:586.55
+In plane
+DIFF:-2.19
+Current pressure:915.31
+Current altitude:593.77
+In plane
+DIFF:-7.22
+Current pressure:914.95
+Current altitude:597.07
+In plane
+DIFF:-3.29
+Current pressure:914.70
+Current altitude:599.27
+In plane
+DIFF:-2.20
+Current pressure:914.60
+Current altitude:600.20
+In plane
+DIFF:-0.93
+Current pressure:914.36
+Current altitude:602.36
+In plane
+DIFF:-2.17
+Current pressure:913.85
+Current altitude:607.08
+In plane
+DIFF:-4.72
+Current pressure:913.27
+Current altitude:612.35
+In plane
+DIFF:-5.27
+Current pressure:912.73
+Current altitude:617.27
+In plane
+DIFF:-4.92
+Current pressure:911.51
+Current altitude:628.40
+In plane
+DIFF:-11.14
+Current pressure:911.03
+Current altitude:632.79
+In plane
+DIFF:-4.39
+Current pressure:910.05
+Current altitude:641.67
+In plane
+DIFF:-8.87
+Current pressure:909.60
+Current altitude:645.77
+In plane
+DIFF:-4.11
+Current pressure:909.04
+Current altitude:650.96
+In plane
+DIFF:-5.19
+Current pressure:908.57
+Current altitude:655.24
+In plane
+DIFF:-4.28
+Current pressure:907.55
+Current altitude:664.55
+In plane
+DIFF:-9.31
+Current pressure:906.99
+Current altitude:669.68
+In plane
+DIFF:-5.13
+Current pressure:905.97
+Current altitude:679.03
+In plane
+DIFF:-9.35
+Current pressure:905.48
+Current altitude:683.54
+In plane
+DIFF:-4.50
+Current pressure:904.57
+Current altitude:691.90
+In plane
+DIFF:-8.37
+Current pressure:903.21
+Current altitude:704.33
+In plane
+DIFF:-12.43
+Current pressure:902.95
+Current altitude:706.77
+In plane
+DIFF:-2.43
+Current pressure:902.26
+Current altitude:713.14
+In plane
+DIFF:-6.38
+Current pressure:901.60
+Current altitude:719.19
+In plane
+DIFF:-6.05
+Current pressure:900.60
+Current altitude:728.41
+In plane
+DIFF:-9.22
+Current pressure:900.32
+Current altitude:730.99
+In plane
+DIFF:-2.58
+Current pressure:899.88
+Current altitude:735.07
+In plane
+DIFF:-4.08
+Current pressure:898.87
+Current altitude:744.35
+In plane
+DIFF:-9.28
+Current pressure:898.04
+Current altitude:752.02
+In plane
+DIFF:-7.68
+Current pressure:896.51
+Current altitude:766.10
+In plane
+DIFF:-14.08
+Current pressure:895.10
+Current altitude:779.15
+In plane
+DIFF:-13.05
+Current pressure:893.81
+Current altitude:791.16
+In plane
+DIFF:-12.01
+Current pressure:892.25
+Current altitude:805.62
+In plane
+DIFF:-14.45
+Current pressure:891.94
+Current altitude:808.46
+In plane
+DIFF:-2.84
+Current pressure:892.06
+Current altitude:807.34
+In plane
+DIFF:1.12
+Current pressure:891.71
+Current altitude:810.67
+In plane
+DIFF:-3.33
+Current pressure:891.46
+Current altitude:812.95
+In plane
+DIFF:-2.29
+Current pressure:891.77
+Current altitude:810.07
+In plane
+DIFF:2.88
+Current pressure:892.10
+Current altitude:807.01
+In plane
+DIFF:3.06
+Current pressure:891.40
+Current altitude:813.51
+In plane
+DIFF:-6.50
+Current pressure:890.88
+Current altitude:818.36
+In plane
+DIFF:-4.85
+Current pressure:890.39
+Current altitude:822.90
+In plane
+DIFF:-4.53
+Current pressure:890.02
+Current altitude:826.31
+In plane
+DIFF:-3.41
+Current pressure:889.91
+Current altitude:827.39
+In plane
+DIFF:-1.09
+Current pressure:889.64
+Current altitude:829.86
+In plane
+DIFF:-2.46
+Current pressure:889.73
+Current altitude:829.05
+In plane
+DIFF:0.81
+Current pressure:889.58
+Current altitude:830.38
+In plane
+DIFF:-1.33
+Current pressure:889.51
+Current altitude:831.09
+In plane
+DIFF:-0.71
+Current pressure:889.74
+Current altitude:828.98
+In plane
+DIFF:2.12
+Current pressure:890.18
+Current altitude:824.83
+In plane
+DIFF:4.15
+Current pressure:890.36
+Current altitude:823.14
+In plane
+DIFF:1.69
+Current pressure:890.68
+Current altitude:820.15
+In plane
+DIFF:2.99
+Current pressure:890.58
+Current altitude:821.17
+In plane
+DIFF:-1.02
+Current pressure:890.89
+Current altitude:818.29
+In plane
+DIFF:2.88
+Current pressure:891.43
+Current altitude:813.23
+In plane
+DIFF:5.06
+TRIGGER!
+Current pressure:891.67
+Current altitude:811.02
+In plane
+DIFF:2.21
+Current pressure:891.91
+Current altitude:808.73
+In plane
+DIFF:2.28
+Current pressure:892.29
+Current altitude:805.23
+In plane
+DIFF:3.51
+Current pressure:892.80
+Current altitude:800.49
+In plane
+DIFF:4.74
+Current pressure:893.35
+Current altitude:795.40
+In plane
+DIFF:5.08
+TRIGGER!
+Current pressure:893.94
+Current altitude:789.96
+In plane
+DIFF:5.44
+TRIGGER!
+Current pressure:894.52
+Current altitude:784.57
+In plane
+DIFF:5.40
+TRIGGER!
+Current pressure:894.95
+Current altitude:780.58
+In plane
+DIFF:3.99
+Current pressure:895.38
+Current altitude:776.62
+In plane
+DIFF:3.96
+Current pressure:895.93
+Current altitude:771.49
+In plane
+DIFF:5.13
+TRIGGER!
+Current pressure:896.18
+Current altitude:769.20
+In plane
+DIFF:2.29
+Current pressure:896.13
+Current altitude:769.70
+In plane
+DIFF:-0.49
+Current pressure:896.58
+Current altitude:765.47
+In plane
+DIFF:4.23
+Current pressure:896.44
+Current altitude:766.79
+In plane
+DIFF:-1.32
+Current pressure:896.35
+Current altitude:767.67
+In plane
+DIFF:-0.88
+Current pressure:896.38
+Current altitude:767.32
+In plane
+DIFF:0.35
+Current pressure:896.79
+Current altitude:763.57
+In plane
+DIFF:3.74
+Current pressure:897.09
+Current altitude:760.75
+In plane
+DIFF:2.82
+Current pressure:897.33
+Current altitude:758.61
+In plane
+DIFF:2.14
+Current pressure:898.07
+Current altitude:751.73
+In plane
+DIFF:6.88
+TRIGGER!
+Current pressure:898.10
+Current altitude:751.46
+In plane
+DIFF:0.28
+Current pressure:898.41
+Current altitude:748.56
+In plane
+DIFF:2.90
+Current pressure:898.38
+Current altitude:748.91
+In plane
+DIFF:-0.35
+Current pressure:898.77
+Current altitude:745.24
+In plane
+DIFF:3.67
+Current pressure:899.06
+Current altitude:742.58
+In plane
+DIFF:2.65
+Current pressure:899.39
+Current altitude:739.55
+In plane
+DIFF:3.03
+Current pressure:900.04
+Current altitude:733.53
+In plane
+DIFF:6.02
+TRIGGER!
+Current pressure:899.57
+Current altitude:737.92
+In plane
+DIFF:-4.39
+Current pressure:899.08
+Current altitude:742.41
+In plane
+DIFF:-4.49
+Current pressure:899.75
+Current altitude:736.27
+In plane
+DIFF:6.14
+TRIGGER!
+Current pressure:900.65
+Current altitude:727.91
+In plane
+DIFF:8.36
+TRIGGER!
+Current pressure:900.44
+Current altitude:729.84
+In plane
+DIFF:-1.92
+Current pressure:900.36
+Current altitude:730.64
+In plane
+DIFF:-0.81
+Current pressure:900.51
+Current altitude:729.22
+In plane
+DIFF:1.42
+Current pressure:900.35
+Current altitude:730.72
+In plane
+DIFF:-1.50
+Current pressure:899.57
+Current altitude:737.92
+In plane
+DIFF:-7.20
+Current pressure:899.62
+Current altitude:737.43
+In plane
+DIFF:0.49
+Current pressure:899.92
+Current altitude:734.69
+In plane
+DIFF:2.74
+Current pressure:900.20
+Current altitude:732.05
+In plane
+DIFF:2.64
+Current pressure:900.92
+Current altitude:725.42
+In plane
+DIFF:6.63
+TRIGGER!
+Current pressure:900.00
+Current altitude:733.93
+In plane
+DIFF:-8.51
+Current pressure:900.04
+Current altitude:733.55
+In plane
+DIFF:0.38
+Current pressure:900.33
+Current altitude:730.88
+In plane
+DIFF:2.66
+Current pressure:900.48
+Current altitude:729.50
+In plane
+DIFF:1.38
+Current pressure:901.08
+Current altitude:723.94
+In plane
+DIFF:5.56
+TRIGGER!
+Current pressure:901.43
+Current altitude:720.75
+In plane
+DIFF:3.19
+Current pressure:902.22
+Current altitude:713.46
+In plane
+DIFF:7.29
+TRIGGER!
+Current pressure:902.22
+Current altitude:713.49
+In plane
+DIFF:-0.02
+Current pressure:902.70
+Current altitude:709.09
+In plane
+DIFF:4.40
+Current pressure:902.47
+Current altitude:711.16
+In plane
+DIFF:-2.08
+Current pressure:903.76
+Current altitude:699.36
+In plane
+DIFF:11.80
+TRIGGER!
+Current pressure:903.37
+Current altitude:702.89
+In plane
+DIFF:-3.53
+Current pressure:904.14
+Current altitude:695.79
+In plane
+DIFF:7.10
+TRIGGER!
+Current pressure:903.36
+Current altitude:703.03
+In plane
+DIFF:-7.24
+Current pressure:903.51
+Current altitude:701.59
+In plane
+DIFF:1.43
+Current pressure:903.98
+Current altitude:697.30
+In plane
+DIFF:4.29
+Current pressure:903.76
+Current altitude:699.28
+In plane
+DIFF:-1.98
+Current pressure:903.85
+Current altitude:698.51
+In plane
+DIFF:0.77
+Current pressure:902.38
+Current altitude:712.00
+In plane
+DIFF:-13.49
+Current pressure:903.05
+Current altitude:705.86
+In plane
+DIFF:6.13
+TRIGGER!
+Current pressure:901.85
+Current altitude:716.88
+In plane
+DIFF:-11.02
+Current pressure:903.51
+Current altitude:701.63
+In plane
+DIFF:15.26
+TRIGGER!
+Current pressure:903.84
+Current altitude:698.54
+In plane
+DIFF:3.08
+Current pressure:904.23
+Current altitude:695.01
+In plane
+DIFF:3.54
+Current pressure:903.89
+Current altitude:698.16
+In plane
+DIFF:-3.15
+Current pressure:904.09
+Current altitude:696.26
+In plane
+DIFF:1.90
+Current pressure:904.25
+Current altitude:694.86
+In plane
+DIFF:1.40
+Current pressure:904.54
+Current altitude:692.14
+In plane
+DIFF:2.71
+Current pressure:904.66
+Current altitude:691.03
+In plane
+DIFF:1.12
+Current pressure:904.62
+Current altitude:691.46
+In plane
+DIFF:-0.44
+Current pressure:904.86
+Current altitude:689.27
+In plane
+DIFF:2.20
+Current pressure:905.67
+Current altitude:681.82
+In plane
+DIFF:7.45
+TRIGGER!
+Current pressure:906.70
+Current altitude:672.36
+In plane
+DIFF:9.46
+TRIGGER!
+Current pressure:908.52
+Current altitude:655.67
+In plane
+DIFF:16.69
+TRIGGER!
+Current pressure:905.70
+Current altitude:681.48
+In plane
+DIFF:-25.81
+Current pressure:906.67
+Current altitude:672.63
+In plane
+DIFF:8.85
+TRIGGER!
+Current pressure:907.19
+Current altitude:667.88
+In plane
+DIFF:4.75
+Current pressure:907.10
+Current altitude:668.69
+In plane
+DIFF:-0.80
+Current pressure:906.59
+Current altitude:673.39
+In plane
+DIFF:-4.71
+Current pressure:906.27
+Current altitude:676.28
+In plane
+DIFF:-2.89
+Current pressure:905.60
+Current altitude:682.44
+In plane
+DIFF:-6.15
+Current pressure:904.92
+Current altitude:688.63
+In plane
+DIFF:-6.20
+Current pressure:904.00
+Current altitude:697.09
+In plane
+DIFF:-8.46
+Current pressure:903.14
+Current altitude:705.03
+In plane
+DIFF:-7.94
+Current pressure:902.36
+Current altitude:712.17
+In plane
+DIFF:-7.15
+Current pressure:901.43
+Current altitude:720.78
+In plane
+DIFF:-8.61
+Current pressure:901.03
+Current altitude:724.40
+In plane
+DIFF:-3.62
+Current pressure:900.46
+Current altitude:729.69
+In plane
+DIFF:-5.28
+Current pressure:899.98
+Current altitude:734.11
+In plane
+DIFF:-4.42
+Current pressure:899.51
+Current altitude:738.45
+In plane
+DIFF:-4.35
+Current pressure:898.87
+Current altitude:744.34
+In plane
+DIFF:-5.88
+Current pressure:898.31
+Current altitude:749.48
+In plane
+DIFF:-5.15
+Current pressure:897.71
+Current altitude:755.09
+In plane
+DIFF:-5.61
+Current pressure:897.04
+Current altitude:761.23
+In plane
+DIFF:-6.14
+Current pressure:896.17
+Current altitude:769.26
+In plane
+DIFF:-8.02
+Current pressure:895.60
+Current altitude:774.53
+In plane
+DIFF:-5.27
+Current pressure:894.98
+Current altitude:780.26
+In plane
+DIFF:-5.73
+Current pressure:894.11
+Current altitude:788.37
+In plane
+DIFF:-8.11
+Current pressure:893.26
+Current altitude:796.20
+In plane
+DIFF:-7.83
+Current pressure:892.77
+Current altitude:800.82
+In plane
+DIFF:-4.62
+Current pressure:892.41
+Current altitude:804.11
+In plane
+DIFF:-3.29
+Current pressure:891.87
+Current altitude:809.09
+In plane
+DIFF:-4.98
+Current pressure:890.67
+Current altitude:820.32
+In plane
+DIFF:-11.23
+Current pressure:889.95
+Current altitude:826.99
+In plane
+DIFF:-6.67
+Current pressure:888.59
+Current altitude:839.64
+In plane
+DIFF:-12.65
+Current pressure:887.24
+Current altitude:852.19
+In plane
+DIFF:-12.55
+Current pressure:886.58
+Current altitude:858.34
+In plane
+DIFF:-6.15
+Current pressure:885.94
+Current altitude:864.37
+In plane
+DIFF:-6.03
+Current pressure:885.18
+Current altitude:871.46
+In plane
+DIFF:-7.08
+Current pressure:884.80
+Current altitude:874.98
+In plane
+DIFF:-3.52
+Current pressure:884.45
+Current altitude:878.26
+In plane
+DIFF:-3.28
+Current pressure:884.21
+Current altitude:880.55
+In plane
+DIFF:-2.29
+Current pressure:884.08
+Current altitude:881.69
+In plane
+DIFF:-1.14
+Current pressure:883.89
+Current altitude:883.52
+In plane
+DIFF:-1.83
+Current pressure:883.48
+Current altitude:887.37
+In plane
+DIFF:-3.84
+Current pressure:883.02
+Current altitude:891.68
+In plane
+DIFF:-4.31
+Current pressure:882.30
+Current altitude:898.40
+In plane
+DIFF:-6.72
+Current pressure:881.69
+Current altitude:904.12
+In plane
+DIFF:-5.72
+Current pressure:880.86
+Current altitude:911.87
+In plane
+DIFF:-7.75
+Current pressure:880.51
+Current altitude:915.16
+In plane
+DIFF:-3.29
+Current pressure:879.89
+Current altitude:921.01
+In plane
+DIFF:-5.86
+Current pressure:878.92
+Current altitude:930.15
+In plane
+DIFF:-9.14
+Current pressure:878.33
+Current altitude:935.65
+In plane
+DIFF:-5.49
+Current pressure:878.07
+Current altitude:938.05
+In plane
+DIFF:-2.41
+Current pressure:877.59
+Current altitude:942.60
+In plane
+DIFF:-4.55
+Current pressure:877.08
+Current altitude:947.43
+In plane
+DIFF:-4.83
+Current pressure:876.33
+Current altitude:954.43
+In plane
+DIFF:-7.00
+Current pressure:875.96
+Current altitude:957.91
+In plane
+DIFF:-3.48
+Current pressure:875.30
+Current altitude:964.17
+In plane
+DIFF:-6.25
+Current pressure:874.61
+Current altitude:970.64
+In plane
+DIFF:-6.48
+Current pressure:874.28
+Current altitude:973.81
+In plane
+DIFF:-3.17
+Current pressure:873.36
+Current altitude:982.47
+In plane
+DIFF:-8.66
+Current pressure:872.81
+Current altitude:987.71
+In plane
+DIFF:-5.23
+Current pressure:872.23
+Current altitude:993.13
+In plane
+DIFF:-5.42
+Current pressure:871.45
+Current altitude:1000.54
+In plane
+DIFF:-7.42
+Current pressure:870.60
+Current altitude:1008.58
+In plane
+DIFF:-8.04
+Current pressure:869.84
+Current altitude:1015.83
+In plane
+DIFF:-7.25
+Current pressure:869.16
+Current altitude:1022.23
+In plane
+DIFF:-6.40
+Current pressure:868.33
+Current altitude:1030.07
+In plane
+DIFF:-7.84
+Current pressure:867.59
+Current altitude:1037.09
+In plane
+DIFF:-7.02
+Current pressure:867.06
+Current altitude:1042.18
+In plane
+DIFF:-5.09
+Current pressure:866.66
+Current altitude:1045.98
+In plane
+DIFF:-3.80
+Current pressure:866.28
+Current altitude:1049.56
+In plane
+DIFF:-3.58
+Current pressure:865.80
+Current altitude:1054.19
+In plane
+DIFF:-4.63
+Current pressure:865.20
+Current altitude:1059.86
+In plane
+DIFF:-5.67
+Current pressure:864.73
+Current altitude:1064.34
+In plane
+DIFF:-4.49
+Current pressure:864.28
+Current altitude:1068.65
+In plane
+DIFF:-4.31
+Current pressure:863.63
+Current altitude:1074.80
+In plane
+DIFF:-6.14
+Current pressure:863.33
+Current altitude:1077.68
+In plane
+DIFF:-2.88
+Current pressure:862.67
+Current altitude:1083.97
+In plane
+DIFF:-6.29
+Current pressure:862.17
+Current altitude:1088.75
+In plane
+DIFF:-4.79
+Current pressure:861.80
+Current altitude:1092.28
+In plane
+DIFF:-3.53
+Current pressure:861.23
+Current altitude:1097.68
+In plane
+DIFF:-5.40
+Current pressure:860.83
+Current altitude:1101.50
+In plane
+DIFF:-3.82
+Current pressure:860.33
+Current altitude:1106.26
+In plane
+DIFF:-4.76
+Current pressure:860.19
+Current altitude:1107.59
+In plane
+DIFF:-1.33
+Current pressure:859.98
+Current altitude:1109.69
+In plane
+DIFF:-2.09
+Current pressure:859.81
+Current altitude:1111.27
+In plane
+DIFF:-1.59
+Current pressure:859.18
+Current altitude:1117.26
+In plane
+DIFF:-5.99
+Current pressure:858.56
+Current altitude:1123.25
+In plane
+DIFF:-5.99
+Current pressure:858.18
+Current altitude:1126.90
+In plane
+DIFF:-3.65
+Current pressure:857.67
+Current altitude:1131.74
+In plane
+DIFF:-4.84
+Current pressure:857.17
+Current altitude:1136.58
+In plane
+DIFF:-4.84
+Current pressure:856.73
+Current altitude:1140.74
+In plane
+DIFF:-4.16
+Current pressure:855.92
+Current altitude:1148.53
+In plane
+DIFF:-7.78
+Current pressure:855.48
+Current altitude:1152.76
+In plane
+DIFF:-4.24
+Current pressure:854.62
+Current altitude:1161.02
+In plane
+DIFF:-8.26
+Current pressure:853.98
+Current altitude:1167.18
+In plane
+DIFF:-6.16
+Current pressure:853.68
+Current altitude:1170.08
+In plane
+DIFF:-2.90
+Current pressure:852.97
+Current altitude:1176.94
+In plane
+DIFF:-6.86
+Current pressure:852.42
+Current altitude:1182.24
+In plane
+DIFF:-5.30
+Current pressure:851.88
+Current altitude:1187.43
+In plane
+DIFF:-5.19
+Current pressure:851.20
+Current altitude:1193.97
+In plane
+DIFF:-6.54
+Current pressure:850.45
+Current altitude:1201.17
+In plane
+DIFF:-7.20
+Current pressure:850.16
+Current altitude:1204.01
+In plane
+DIFF:-2.84
+Current pressure:849.93
+Current altitude:1206.23
+In plane
+DIFF:-2.22
+Current pressure:849.96
+Current altitude:1205.98
+In plane
+DIFF:0.25
+Current pressure:849.72
+Current altitude:1208.27
+In plane
+DIFF:-2.29
+Current pressure:849.28
+Current altitude:1212.53
+In plane
+DIFF:-4.26
+Current pressure:848.98
+Current altitude:1215.40
+In plane
+DIFF:-2.87
+Current pressure:848.67
+Current altitude:1218.39
+In plane
+DIFF:-2.99
+Current pressure:848.17
+Current altitude:1223.20
+In plane
+DIFF:-4.81
+Current pressure:847.79
+Current altitude:1226.88
+In plane
+DIFF:-3.68
+Current pressure:847.47
+Current altitude:1230.02
+In plane
+DIFF:-3.14
+Current pressure:846.74
+Current altitude:1237.06
+In plane
+DIFF:-7.04
+Current pressure:846.38
+Current altitude:1240.60
+In plane
+DIFF:-3.54
+Current pressure:845.63
+Current altitude:1247.83
+In plane
+DIFF:-7.23
+Current pressure:845.32
+Current altitude:1250.87
+In plane
+DIFF:-3.03
+Current pressure:844.50
+Current altitude:1258.80
+In plane
+DIFF:-7.93
+Current pressure:843.97
+Current altitude:1263.92
+In plane
+DIFF:-5.12
+Current pressure:843.34
+Current altitude:1270.04
+In plane
+DIFF:-6.11
+Current pressure:842.73
+Current altitude:1275.97
+In plane
+DIFF:-5.93
+Current pressure:842.27
+Current altitude:1280.47
+In plane
+DIFF:-4.50
+Current pressure:841.92
+Current altitude:1283.84
+In plane
+DIFF:-3.37
+Current pressure:841.66
+Current altitude:1286.38
+In plane
+DIFF:-2.53
+Current pressure:841.34
+Current altitude:1289.53
+In plane
+DIFF:-3.15
+Current pressure:840.94
+Current altitude:1293.38
+In plane
+DIFF:-3.85
+Current pressure:840.54
+Current altitude:1297.31
+In plane
+DIFF:-3.93
+Current pressure:840.02
+Current altitude:1302.34
+In plane
+DIFF:-5.03
+Current pressure:839.22
+Current altitude:1310.17
+In plane
+DIFF:-7.83
+Current pressure:838.64
+Current altitude:1315.86
+In plane
+DIFF:-5.69
+Current pressure:837.98
+Current altitude:1322.26
+In plane
+DIFF:-6.41
+Current pressure:837.05
+Current altitude:1331.35
+In plane
+DIFF:-9.09
+Current pressure:836.49
+Current altitude:1336.81
+In plane
+DIFF:-5.46
+Current pressure:835.88
+Current altitude:1342.75
+In plane
+DIFF:-5.94
+Current pressure:835.50
+Current altitude:1346.54
+In plane
+DIFF:-3.79
+Current pressure:834.99
+Current altitude:1351.48
+In plane
+DIFF:-4.94
+Current pressure:834.86
+Current altitude:1352.74
+In plane
+DIFF:-1.26
+Current pressure:834.50
+Current altitude:1356.27
+In plane
+DIFF:-3.54
+Current pressure:834.12
+Current altitude:1360.00
+In plane
+DIFF:-3.73
+Current pressure:833.75
+Current altitude:1363.62
+In plane
+DIFF:-3.62
+Current pressure:834.25
+Current altitude:1358.78
+In plane
+DIFF:4.84
+Current pressure:833.24
+Current altitude:1368.68
+In plane
+DIFF:-9.90
+Current pressure:832.64
+Current altitude:1374.56
+In plane
+DIFF:-5.88
+Current pressure:832.11
+Current altitude:1379.74
+In plane
+DIFF:-5.18
+Current pressure:832.00
+Current altitude:1380.85
+In plane
+DIFF:-1.11
+Current pressure:831.80
+Current altitude:1382.84
+In plane
+DIFF:-1.99
+Current pressure:831.38
+Current altitude:1386.92
+In plane
+DIFF:-4.07
+Current pressure:831.30
+Current altitude:1387.76
+In plane
+DIFF:-0.84
+Current pressure:830.70
+Current altitude:1393.62
+In plane
+DIFF:-5.86
+Current pressure:830.39
+Current altitude:1396.69
+In plane
+DIFF:-3.08
+Current pressure:829.89
+Current altitude:1401.63
+In plane
+DIFF:-4.93
+Current pressure:829.37
+Current altitude:1406.69
+In plane
+DIFF:-5.07
+Current pressure:828.82
+Current altitude:1412.16
+In plane
+DIFF:-5.47
+Current pressure:828.26
+Current altitude:1417.68
+In plane
+DIFF:-5.52
+Current pressure:827.84
+Current altitude:1421.78
+In plane
+DIFF:-4.10
+Current pressure:827.34
+Current altitude:1426.68
+In plane
+DIFF:-4.90
+Current pressure:827.22
+Current altitude:1427.89
+In plane
+DIFF:-1.21
+Current pressure:826.89
+Current altitude:1431.13
+In plane
+DIFF:-3.24
+Current pressure:826.56
+Current altitude:1434.43
+In plane
+DIFF:-3.30
+Current pressure:826.53
+Current altitude:1434.73
+In plane
+DIFF:-0.30
+Current pressure:826.75
+Current altitude:1432.52
+In plane
+DIFF:2.21
+Current pressure:826.61
+Current altitude:1433.97
+In plane
+DIFF:-1.45
+Current pressure:826.21
+Current altitude:1437.84
+In plane
+DIFF:-3.87
+Current pressure:825.75
+Current altitude:1442.42
+In plane
+DIFF:-4.58
+Current pressure:825.28
+Current altitude:1447.11
+In plane
+DIFF:-4.70
+Current pressure:824.54
+Current altitude:1454.34
+In plane
+DIFF:-7.23
+Current pressure:823.58
+Current altitude:1463.88
+In plane
+DIFF:-9.54
+Current pressure:822.64
+Current altitude:1473.18
+In plane
+DIFF:-9.30
+Current pressure:821.97
+Current altitude:1479.86
+In plane
+DIFF:-6.68
+Current pressure:821.50
+Current altitude:1484.52
+In plane
+DIFF:-4.66
+Current pressure:820.91
+Current altitude:1490.38
+In plane
+DIFF:-5.86
+Current pressure:820.48
+Current altitude:1494.68
+In plane
+DIFF:-4.30
+Current pressure:820.00
+Current altitude:1499.43
+In plane
+DIFF:-4.75
+Current pressure:819.13
+Current altitude:1508.04
+In plane
+DIFF:-8.61
+Current pressure:818.52
+Current altitude:1514.18
+In plane
+DIFF:-6.14
+Current pressure:817.96
+Current altitude:1519.74
+In plane
+DIFF:-5.56
+Current pressure:817.28
+Current altitude:1526.52
+In plane
+DIFF:-6.78
+Current pressure:816.92
+Current altitude:1530.06
+In plane
+DIFF:-3.54
+Current pressure:816.43
+Current altitude:1534.96
+In plane
+DIFF:-4.90
+Current pressure:815.88
+Current altitude:1540.45
+In plane
+DIFF:-5.49
+Current pressure:815.41
+Current altitude:1545.18
+In plane
+DIFF:-4.73
+Current pressure:814.75
+Current altitude:1551.73
+In plane
+DIFF:-6.55
+Current pressure:814.30
+Current altitude:1556.25
+In plane
+DIFF:-4.52
+Current pressure:813.42
+Current altitude:1564.98
+In plane
+DIFF:-8.73
+Current pressure:812.67
+Current altitude:1572.56
+In plane
+DIFF:-7.58
+Current pressure:811.86
+Current altitude:1580.66
+In plane
+DIFF:-8.10
+Current pressure:811.09
+Current altitude:1588.32
+In plane
+DIFF:-7.65
+Current pressure:810.38
+Current altitude:1595.49
+In plane
+DIFF:-7.17
+Current pressure:809.74
+Current altitude:1601.91
+In plane
+DIFF:-6.43
+Current pressure:809.25
+Current altitude:1606.86
+In plane
+DIFF:-4.95
+Current pressure:808.84
+Current altitude:1610.95
+In plane
+DIFF:-4.09
+Current pressure:808.48
+Current altitude:1614.59
+In plane
+DIFF:-3.63
+Current pressure:808.02
+Current altitude:1619.20
+In plane
+DIFF:-4.61
+Current pressure:807.73
+Current altitude:1622.15
+In plane
+DIFF:-2.95
+Current pressure:807.45
+Current altitude:1624.95
+In plane
+DIFF:-2.80
+Current pressure:807.19
+Current altitude:1627.57
+In plane
+DIFF:-2.63
+Current pressure:806.68
+Current altitude:1632.72
+In plane
+DIFF:-5.14
+Current pressure:806.40
+Current altitude:1635.49
+In plane
+DIFF:-2.77
+Current pressure:805.80
+Current altitude:1641.60
+In plane
+DIFF:-6.11
+Current pressure:805.26
+Current altitude:1647.01
+In plane
+DIFF:-5.41
+Current pressure:804.79
+Current altitude:1651.77
+In plane
+DIFF:-4.76
+Current pressure:804.23
+Current altitude:1657.42
+In plane
+DIFF:-5.65
+Current pressure:803.64
+Current altitude:1663.36
+In plane
+DIFF:-5.93
+Current pressure:802.89
+Current altitude:1670.97
+In plane
+DIFF:-7.61
+Current pressure:802.19
+Current altitude:1678.04
+In plane
+DIFF:-7.08
+Current pressure:801.55
+Current altitude:1684.53
+In plane
+DIFF:-6.48
+Current pressure:800.98
+Current altitude:1690.31
+In plane
+DIFF:-5.78
+Current pressure:800.40
+Current altitude:1696.10
+In plane
+DIFF:-5.79
+Current pressure:799.76
+Current altitude:1702.62
+In plane
+DIFF:-6.52
+Current pressure:799.33
+Current altitude:1707.02
+In plane
+DIFF:-4.39
+Current pressure:798.88
+Current altitude:1711.52
+In plane
+DIFF:-4.50
+Current pressure:798.28
+Current altitude:1717.64
+In plane
+DIFF:-6.12
+Current pressure:797.69
+Current altitude:1723.61
+In plane
+DIFF:-5.97
+Current pressure:797.05
+Current altitude:1730.15
+In plane
+DIFF:-6.54
+Current pressure:796.46
+Current altitude:1736.21
+In plane
+DIFF:-6.06
+Current pressure:795.99
+Current altitude:1740.95
+In plane
+DIFF:-4.75
+Current pressure:795.47
+Current altitude:1746.23
+In plane
+DIFF:-5.27
+Current pressure:794.99
+Current altitude:1751.16
+In plane
+DIFF:-4.94
+Current pressure:794.55
+Current altitude:1755.57
+In plane
+DIFF:-4.41
+Current pressure:794.18
+Current altitude:1759.42
+In plane
+DIFF:-3.85
+Current pressure:793.72
+Current altitude:1764.10
+In plane
+DIFF:-4.68
+Current pressure:793.45
+Current altitude:1766.83
+In plane
+DIFF:-2.74
+Current pressure:793.02
+Current altitude:1771.24
+In plane
+DIFF:-4.41
+Current pressure:792.65
+Current altitude:1774.97
+In plane
+DIFF:-3.72
+Current pressure:792.34
+Current altitude:1778.21
+In plane
+DIFF:-3.25
+Current pressure:791.93
+Current altitude:1782.40
+In plane
+DIFF:-4.19
+Current pressure:791.51
+Current altitude:1786.66
+In plane
+DIFF:-4.26
+Current pressure:791.18
+Current altitude:1790.08
+In plane
+DIFF:-3.42
+Current pressure:790.71
+Current altitude:1794.83
+In plane
+DIFF:-4.75
+Current pressure:790.21
+Current altitude:1799.99
+In plane
+DIFF:-5.16
+Current pressure:789.78
+Current altitude:1804.35
+In plane
+DIFF:-4.36
+Current pressure:789.29
+Current altitude:1809.35
+In plane
+DIFF:-5.00
+Current pressure:788.73
+Current altitude:1815.10
+In plane
+DIFF:-5.75
+Current pressure:788.11
+Current altitude:1821.47
+In plane
+DIFF:-6.37
+Current pressure:787.43
+Current altitude:1828.43
+In plane
+DIFF:-6.96
+Current pressure:786.84
+Current altitude:1834.50
+In plane
+DIFF:-6.07
+Current pressure:786.28
+Current altitude:1840.28
+In plane
+DIFF:-5.78
+Current pressure:785.87
+Current altitude:1844.54
+In plane
+DIFF:-4.26
+Current pressure:785.49
+Current altitude:1848.38
+In plane
+DIFF:-3.84
+Current pressure:785.14
+Current altitude:1852.02
+In plane
+DIFF:-3.64
+Current pressure:784.75
+Current altitude:1856.09
+In plane
+DIFF:-4.07
+Current pressure:784.40
+Current altitude:1859.67
+In plane
+DIFF:-3.58
+Current pressure:784.06
+Current altitude:1863.11
+In plane
+DIFF:-3.44
+Current pressure:783.85
+Current altitude:1865.27
+In plane
+DIFF:-2.16
+Current pressure:783.46
+Current altitude:1869.37
+In plane
+DIFF:-4.10
+Current pressure:783.08
+Current altitude:1873.27
+In plane
+DIFF:-3.90
+Current pressure:782.84
+Current altitude:1875.72
+In plane
+DIFF:-2.45
+Current pressure:782.60
+Current altitude:1878.17
+In plane
+DIFF:-2.45
+Current pressure:782.24
+Current altitude:1881.97
+In plane
+DIFF:-3.80
+Current pressure:781.95
+Current altitude:1884.92
+In plane
+DIFF:-2.95
+Current pressure:781.62
+Current altitude:1888.32
+In plane
+DIFF:-3.39
+Current pressure:781.29
+Current altitude:1891.78
+In plane
+DIFF:-3.46
+Current pressure:780.92
+Current altitude:1895.61
+In plane
+DIFF:-3.83
+Current pressure:780.50
+Current altitude:1899.89
+In plane
+DIFF:-4.28
+Current pressure:780.05
+Current altitude:1904.59
+In plane
+DIFF:-4.69
+Current pressure:779.44
+Current altitude:1910.92
+In plane
+DIFF:-6.34
+Current pressure:778.92
+Current altitude:1916.23
+In plane
+DIFF:-5.30
+Current pressure:778.55
+Current altitude:1920.12
+In plane
+DIFF:-3.89
+Current pressure:778.15
+Current altitude:1924.25
+In plane
+DIFF:-4.14
+Current pressure:777.89
+Current altitude:1926.92
+In plane
+DIFF:-2.67
+Current pressure:777.63
+Current altitude:1929.62
+In plane
+DIFF:-2.70
+Current pressure:777.35
+Current altitude:1932.59
+In plane
+DIFF:-2.97
+Current pressure:777.10
+Current altitude:1935.15
+In plane
+DIFF:-2.56
+Current pressure:776.79
+Current altitude:1938.41
+In plane
+DIFF:-3.26
+Current pressure:776.41
+Current altitude:1942.33
+In plane
+DIFF:-3.92
+Current pressure:776.06
+Current altitude:1945.96
+In plane
+DIFF:-3.64
+Current pressure:775.49
+Current altitude:1951.83
+In plane
+DIFF:-5.87
+Current pressure:775.03
+Current altitude:1956.65
+In plane
+DIFF:-4.81
+Current pressure:774.52
+Current altitude:1961.92
+In plane
+DIFF:-5.28
+Current pressure:774.04
+Current altitude:1967.00
+In plane
+DIFF:-5.08
+Current pressure:773.67
+Current altitude:1970.86
+In plane
+DIFF:-3.86
+Current pressure:773.24
+Current altitude:1975.33
+In plane
+DIFF:-4.47
+Current pressure:772.79
+Current altitude:1979.96
+In plane
+DIFF:-4.63
+Current pressure:772.43
+Current altitude:1983.75
+In plane
+DIFF:-3.79
+Current pressure:772.05
+Current altitude:1987.71
+In plane
+DIFF:-3.96
+Current pressure:771.67
+Current altitude:1991.64
+In plane
+DIFF:-3.93
+Current pressure:771.27
+Current altitude:1995.84
+In plane
+DIFF:-4.21
+Current pressure:770.84
+Current altitude:2000.30
+In plane
+DIFF:-4.46
+Current pressure:770.51
+Current altitude:2003.84
+In plane
+DIFF:-3.54
+Current pressure:770.17
+Current altitude:2007.34
+In plane
+DIFF:-3.50
+Current pressure:769.78
+Current altitude:2011.46
+In plane
+DIFF:-4.12
+Current pressure:769.30
+Current altitude:2016.42
+In plane
+DIFF:-4.96
+Current pressure:768.90
+Current altitude:2020.62
+In plane
+DIFF:-4.20
+Current pressure:768.43
+Current altitude:2025.58
+In plane
+DIFF:-4.95
+Current pressure:768.04
+Current altitude:2029.70
+In plane
+DIFF:-4.13
+Current pressure:767.67
+Current altitude:2033.49
+In plane
+DIFF:-3.79
+Current pressure:767.29
+Current altitude:2037.54
+In plane
+DIFF:-4.05
+Current pressure:767.07
+Current altitude:2039.79
+In plane
+DIFF:-2.25
+Current pressure:766.83
+Current altitude:2042.35
+In plane
+DIFF:-2.56
+Current pressure:766.50
+Current altitude:2045.75
+In plane
+DIFF:-3.41
+Current pressure:766.23
+Current altitude:2048.69
+In plane
+DIFF:-2.94
+Current pressure:765.91
+Current altitude:2052.01
+In plane
+DIFF:-3.32
+Current pressure:765.42
+Current altitude:2057.10
+In plane
+DIFF:-5.09
+Current pressure:764.93
+Current altitude:2062.34
+In plane
+DIFF:-5.25
+Current pressure:764.50
+Current altitude:2066.84
+In plane
+DIFF:-4.50
+Current pressure:764.04
+Current altitude:2071.62
+In plane
+DIFF:-4.78
+Current pressure:763.72
+Current altitude:2075.04
+In plane
+DIFF:-3.42
+Current pressure:763.27
+Current altitude:2079.74
+In plane
+DIFF:-4.70
+Current pressure:762.82
+Current altitude:2084.47
+In plane
+DIFF:-4.73
+Current pressure:762.51
+Current altitude:2087.80
+In plane
+DIFF:-3.33
+Current pressure:762.11
+Current altitude:2092.01
+In plane
+DIFF:-4.21
+Current pressure:761.61
+Current altitude:2097.29
+In plane
+DIFF:-5.28
+Current pressure:761.17
+Current altitude:2101.89
+In plane
+DIFF:-4.61
+Current pressure:760.71
+Current altitude:2106.81
+In plane
+DIFF:-4.91
+Current pressure:760.18
+Current altitude:2112.37
+In plane
+DIFF:-5.56
+Current pressure:759.74
+Current altitude:2117.02
+In plane
+DIFF:-4.65
+Current pressure:759.30
+Current altitude:2121.69
+In plane
+DIFF:-4.67
+Current pressure:758.90
+Current altitude:2125.87
+In plane
+DIFF:-4.18
+Current pressure:758.48
+Current altitude:2130.37
+In plane
+DIFF:-4.50
+Current pressure:757.95
+Current altitude:2135.92
+In plane
+DIFF:-5.55
+Current pressure:757.44
+Current altitude:2141.42
+In plane
+DIFF:-5.50
+Current pressure:756.92
+Current altitude:2146.87
+In plane
+DIFF:-5.45
+Current pressure:756.47
+Current altitude:2151.65
+In plane
+DIFF:-4.77
+Current pressure:756.10
+Current altitude:2155.60
+In plane
+DIFF:-3.95
+Current pressure:755.66
+Current altitude:2160.27
+In plane
+DIFF:-4.67
+Current pressure:755.35
+Current altitude:2163.54
+In plane
+DIFF:-3.28
+Current pressure:755.09
+Current altitude:2166.32
+In plane
+DIFF:-2.77
+Current pressure:754.71
+Current altitude:2170.33
+In plane
+DIFF:-4.01
+Current pressure:754.44
+Current altitude:2173.19
+In plane
+DIFF:-2.86
+Current pressure:754.22
+Current altitude:2175.53
+In plane
+DIFF:-2.34
+Current pressure:754.03
+Current altitude:2177.63
+In plane
+DIFF:-2.10
+Current pressure:753.76
+Current altitude:2180.44
+In plane
+DIFF:-2.81
+Current pressure:753.51
+Current altitude:2183.10
+In plane
+DIFF:-2.66
+Current pressure:753.22
+Current altitude:2186.25
+In plane
+DIFF:-3.15
+Current pressure:753.03
+Current altitude:2188.28
+In plane
+DIFF:-2.03
+Current pressure:752.56
+Current altitude:2193.22
+In plane
+DIFF:-4.94
+Current pressure:751.97
+Current altitude:2199.47
+In plane
+DIFF:-6.25
+Current pressure:751.30
+Current altitude:2206.62
+In plane
+DIFF:-7.15
+Current pressure:750.61
+Current altitude:2214.01
+In plane
+DIFF:-7.39
+Current pressure:750.00
+Current altitude:2220.58
+In plane
+DIFF:-6.57
+Current pressure:749.34
+Current altitude:2227.56
+In plane
+DIFF:-6.98
+Current pressure:748.74
+Current altitude:2234.03
+In plane
+DIFF:-6.48
+Current pressure:748.21
+Current altitude:2239.72
+In plane
+DIFF:-5.68
+Current pressure:747.81
+Current altitude:2244.00
+In plane
+DIFF:-4.28
+Current pressure:747.50
+Current altitude:2247.29
+In plane
+DIFF:-3.29
+Current pressure:747.14
+Current altitude:2251.11
+In plane
+DIFF:-3.83
+Current pressure:746.99
+Current altitude:2252.72
+In plane
+DIFF:-1.61
+Current pressure:746.93
+Current altitude:2253.38
+In plane
+DIFF:-0.66
+Current pressure:746.89
+Current altitude:2253.88
+In plane
+DIFF:-0.49
+Current pressure:746.65
+Current altitude:2256.41
+In plane
+DIFF:-2.54
+Current pressure:746.43
+Current altitude:2258.72
+In plane
+DIFF:-2.31
+Current pressure:746.10
+Current altitude:2262.34
+In plane
+DIFF:-3.61
+Current pressure:745.65
+Current altitude:2267.14
+In plane
+DIFF:-4.80
+Current pressure:745.19
+Current altitude:2272.04
+In plane
+DIFF:-4.90
+Current pressure:744.62
+Current altitude:2278.24
+In plane
+DIFF:-6.21
+Current pressure:744.13
+Current altitude:2283.48
+In plane
+DIFF:-5.24
+Current pressure:743.54
+Current altitude:2289.81
+In plane
+DIFF:-6.33
+Current pressure:743.03
+Current altitude:2295.29
+In plane
+DIFF:-5.48
+Current pressure:742.50
+Current altitude:2301.03
+In plane
+DIFF:-5.74
+Current pressure:742.04
+Current altitude:2305.93
+In plane
+DIFF:-4.90
+Current pressure:741.65
+Current altitude:2310.12
+In plane
+DIFF:-4.19
+Current pressure:741.27
+Current altitude:2314.29
+In plane
+DIFF:-4.17
+Current pressure:741.04
+Current altitude:2316.73
+In plane
+DIFF:-2.43
+Current pressure:740.71
+Current altitude:2320.27
+In plane
+DIFF:-3.54
+Current pressure:740.42
+Current altitude:2323.43
+In plane
+DIFF:-3.16
+Current pressure:740.11
+Current altitude:2326.82
+In plane
+DIFF:-3.40
+Current pressure:739.79
+Current altitude:2330.24
+In plane
+DIFF:-3.42
+Current pressure:739.50
+Current altitude:2333.39
+In plane
+DIFF:-3.15
+Current pressure:739.14
+Current altitude:2337.31
+In plane
+DIFF:-3.92
+Current pressure:738.75
+Current altitude:2341.53
+In plane
+DIFF:-4.22
+Current pressure:738.46
+Current altitude:2344.62
+In plane
+DIFF:-3.09
+Current pressure:738.05
+Current altitude:2349.10
+In plane
+DIFF:-4.48
+Current pressure:737.68
+Current altitude:2353.11
+In plane
+DIFF:-4.01
+Current pressure:737.24
+Current altitude:2357.79
+In plane
+DIFF:-4.68
+Current pressure:736.91
+Current altitude:2361.37
+In plane
+DIFF:-3.57
+Current pressure:736.49
+Current altitude:2365.98
+In plane
+DIFF:-4.61
+Current pressure:736.02
+Current altitude:2371.10
+In plane
+DIFF:-5.12
+Current pressure:735.60
+Current altitude:2375.61
+In plane
+DIFF:-4.51
+Current pressure:735.15
+Current altitude:2380.53
+In plane
+DIFF:-4.92
+Current pressure:734.73
+Current altitude:2385.08
+In plane
+DIFF:-4.56
+Current pressure:734.30
+Current altitude:2389.70
+In plane
+DIFF:-4.61
+Current pressure:733.74
+Current altitude:2395.83
+In plane
+DIFF:-6.14
+Current pressure:733.31
+Current altitude:2400.46
+In plane
+DIFF:-4.63
+Current pressure:732.81
+Current altitude:2405.98
+In plane
+DIFF:-5.52
+Current pressure:732.41
+Current altitude:2410.25
+In plane
+DIFF:-4.26
+Current pressure:732.06
+Current altitude:2414.05
+In plane
+DIFF:-3.80
+Current pressure:731.59
+Current altitude:2419.21
+In plane
+DIFF:-5.16
+Current pressure:731.22
+Current altitude:2423.30
+In plane
+DIFF:-4.09
+Current pressure:730.90
+Current altitude:2426.80
+In plane
+DIFF:-3.50
+Current pressure:730.63
+Current altitude:2429.67
+In plane
+DIFF:-2.87
+Current pressure:730.28
+Current altitude:2433.51
+In plane
+DIFF:-3.84
+Current pressure:729.86
+Current altitude:2438.11
+In plane
+DIFF:-4.59
+Current pressure:729.49
+Current altitude:2442.12
+In plane
+DIFF:-4.01
+Current pressure:729.02
+Current altitude:2447.32
+In plane
+DIFF:-5.20
+Current pressure:728.70
+Current altitude:2450.75
+In plane
+DIFF:-3.43
+Current pressure:728.41
+Current altitude:2453.92
+In plane
+DIFF:-3.17
+Current pressure:728.13
+Current altitude:2457.02
+In plane
+DIFF:-3.10
+Current pressure:727.85
+Current altitude:2460.13
+In plane
+DIFF:-3.11
+Current pressure:727.59
+Current altitude:2462.97
+In plane
+DIFF:-2.84
+Current pressure:727.34
+Current altitude:2465.65
+In plane
+DIFF:-2.68
+Current pressure:727.13
+Current altitude:2467.96
+In plane
+DIFF:-2.31
+Current pressure:726.89
+Current altitude:2470.59
+In plane
+DIFF:-2.63
+Current pressure:726.52
+Current altitude:2474.65
+In plane
+DIFF:-4.06
+Current pressure:726.14
+Current altitude:2478.87
+In plane
+DIFF:-4.22
+Current pressure:725.68
+Current altitude:2483.89
+In plane
+DIFF:-5.02
+Current pressure:725.18
+Current altitude:2489.39
+In plane
+DIFF:-5.51
+Current pressure:724.66
+Current altitude:2495.09
+In plane
+DIFF:-5.70
+Current pressure:724.12
+Current altitude:2501.00
+In plane
+DIFF:-5.91
+Current pressure:723.54
+Current altitude:2507.36
+In plane
+DIFF:-6.37
+Current pressure:723.05
+Current altitude:2512.78
+In plane
+DIFF:-5.41
+Current pressure:722.52
+Current altitude:2518.59
+In plane
+DIFF:-5.81
+Current pressure:722.05
+Current altitude:2523.82
+In plane
+DIFF:-5.24
+Current pressure:721.49
+Current altitude:2529.93
+In plane
+DIFF:-6.10
+Current pressure:721.01
+Current altitude:2535.29
+In plane
+DIFF:-5.36
+Current pressure:720.57
+Current altitude:2540.14
+In plane
+DIFF:-4.85
+Current pressure:720.18
+Current altitude:2544.41
+In plane
+DIFF:-4.27
+Current pressure:719.99
+Current altitude:2546.49
+In plane
+DIFF:-2.08
+Current pressure:719.74
+Current altitude:2549.28
+In plane
+DIFF:-2.78
+Current pressure:719.48
+Current altitude:2552.18
+In plane
+DIFF:-2.90
+Current pressure:719.29
+Current altitude:2554.24
+In plane
+DIFF:-2.06
+Current pressure:718.90
+Current altitude:2558.50
+In plane
+DIFF:-4.26
+Current pressure:718.55
+Current altitude:2562.42
+In plane
+DIFF:-3.92
+Current pressure:718.02
+Current altitude:2568.27
+In plane
+DIFF:-5.84
+Current pressure:717.53
+Current altitude:2573.75
+In plane
+DIFF:-5.49
+Current pressure:717.02
+Current altitude:2579.33
+In plane
+DIFF:-5.57
+Current pressure:716.60
+Current altitude:2584.04
+In plane
+DIFF:-4.71
+Current pressure:716.24
+Current altitude:2587.99
+In plane
+DIFF:-3.95
+Current pressure:715.93
+Current altitude:2591.45
+In plane
+DIFF:-3.46
+Current pressure:715.64
+Current altitude:2594.62
+In plane
+DIFF:-3.17
+Current pressure:715.46
+Current altitude:2596.62
+In plane
+DIFF:-2.00
+Current pressure:715.29
+Current altitude:2598.50
+In plane
+DIFF:-1.88
+Current pressure:715.01
+Current altitude:2601.71
+In plane
+DIFF:-3.21
+Current pressure:714.62
+Current altitude:2606.01
+In plane
+DIFF:-4.30
+Current pressure:714.36
+Current altitude:2608.91
+In plane
+DIFF:-2.90
+Current pressure:714.09
+Current altitude:2611.89
+In plane
+DIFF:-2.98
+Current pressure:713.83
+Current altitude:2614.79
+In plane
+DIFF:-2.90
+Current pressure:713.52
+Current altitude:2618.18
+In plane
+DIFF:-3.38
+Current pressure:713.16
+Current altitude:2622.21
+In plane
+DIFF:-4.03
+Current pressure:712.69
+Current altitude:2627.44
+In plane
+DIFF:-5.23
+Current pressure:712.33
+Current altitude:2631.43
+In plane
+DIFF:-4.00
+Current pressure:712.14
+Current altitude:2633.55
+In plane
+DIFF:-2.11
+Current pressure:711.92
+Current altitude:2636.05
+In plane
+DIFF:-2.51
+Current pressure:711.85
+Current altitude:2636.81
+In plane
+DIFF:-0.75
+Current pressure:711.70
+Current altitude:2638.44
+In plane
+DIFF:-1.64
+Current pressure:711.44
+Current altitude:2641.34
+In plane
+DIFF:-2.89
+Current pressure:711.35
+Current altitude:2642.38
+In plane
+DIFF:-1.04
+Current pressure:711.05
+Current altitude:2645.71
+In plane
+DIFF:-3.33
+Current pressure:710.67
+Current altitude:2650.03
+In plane
+DIFF:-4.32
+Current pressure:710.24
+Current altitude:2654.76
+In plane
+DIFF:-4.73
+Current pressure:710.08
+Current altitude:2656.54
+In plane
+DIFF:-1.78
+Current pressure:709.91
+Current altitude:2658.43
+In plane
+DIFF:-1.89
+Current pressure:709.92
+Current altitude:2658.31
+In plane
+DIFF:0.12
+Current pressure:709.73
+Current altitude:2660.45
+In plane
+DIFF:-2.14
+Current pressure:709.55
+Current altitude:2662.46
+In plane
+DIFF:-2.01
+Current pressure:709.08
+Current altitude:2667.75
+In plane
+DIFF:-5.29
+Current pressure:708.58
+Current altitude:2673.31
+In plane
+DIFF:-5.56
+Current pressure:708.23
+Current altitude:2677.28
+In plane
+DIFF:-3.97
+Current pressure:707.87
+Current altitude:2681.32
+In plane
+DIFF:-4.03
+Current pressure:707.64
+Current altitude:2683.79
+In plane
+DIFF:-2.48
+Current pressure:707.33
+Current altitude:2687.37
+In plane
+DIFF:-3.57
+Current pressure:707.14
+Current altitude:2689.49
+In plane
+DIFF:-2.12
+Current pressure:706.92
+Current altitude:2691.95
+In plane
+DIFF:-2.46
+Current pressure:706.69
+Current altitude:2694.54
+In plane
+DIFF:-2.59
+Current pressure:706.30
+Current altitude:2698.90
+In plane
+DIFF:-4.36
+Current pressure:705.97
+Current altitude:2702.54
+In plane
+DIFF:-3.64
+Current pressure:705.66
+Current altitude:2705.99
+In plane
+DIFF:-3.45
+Current pressure:705.39
+Current altitude:2709.13
+In plane
+DIFF:-3.14
+Current pressure:705.14
+Current altitude:2711.83
+In plane
+DIFF:-2.70
+Current pressure:704.90
+Current altitude:2714.57
+In plane
+DIFF:-2.74
+Current pressure:704.60
+Current altitude:2717.96
+In plane
+DIFF:-3.39
+Current pressure:704.25
+Current altitude:2721.85
+In plane
+DIFF:-3.88
+Current pressure:704.25
+Current altitude:2721.91
+In plane
+DIFF:-0.06
+Current pressure:704.09
+Current altitude:2723.68
+In plane
+DIFF:-1.77
+Current pressure:703.77
+Current altitude:2727.31
+In plane
+DIFF:-3.63
+Current pressure:703.40
+Current altitude:2731.49
+In plane
+DIFF:-4.18
+Current pressure:703.15
+Current altitude:2734.21
+In plane
+DIFF:-2.72
+Current pressure:703.10
+Current altitude:2734.83
+In plane
+DIFF:-0.61
+Current pressure:702.47
+Current altitude:2741.97
+In plane
+DIFF:-7.14
+Current pressure:702.14
+Current altitude:2745.62
+In plane
+DIFF:-3.65
+Current pressure:701.79
+Current altitude:2749.62
+In plane
+DIFF:-4.00
+Current pressure:701.58
+Current altitude:2751.95
+In plane
+DIFF:-2.33
+Current pressure:701.55
+Current altitude:2752.29
+In plane
+DIFF:-0.34
+Current pressure:701.45
+Current altitude:2753.47
+In plane
+DIFF:-1.18
+Current pressure:701.35
+Current altitude:2754.51
+In plane
+DIFF:-1.04
+Current pressure:701.14
+Current altitude:2756.94
+In plane
+DIFF:-2.43
+Current pressure:701.05
+Current altitude:2757.94
+In plane
+DIFF:-1.00
+Current pressure:700.82
+Current altitude:2760.54
+In plane
+DIFF:-2.60
+Current pressure:700.84
+Current altitude:2760.35
+In plane
+DIFF:0.19
+Current pressure:700.84
+Current altitude:2760.29
+In plane
+DIFF:0.06
+Current pressure:700.70
+Current altitude:2761.92
+In plane
+DIFF:-1.63
+Current pressure:700.50
+Current altitude:2764.18
+In plane
+DIFF:-2.26
+Current pressure:700.22
+Current altitude:2767.32
+In plane
+DIFF:-3.14
+Current pressure:700.01
+Current altitude:2769.64
+In plane
+DIFF:-2.33
+Current pressure:699.77
+Current altitude:2772.34
+In plane
+DIFF:-2.69
+Current pressure:699.52
+Current altitude:2775.26
+In plane
+DIFF:-2.93
+Current pressure:699.19
+Current altitude:2778.99
+In plane
+DIFF:-3.73
+Current pressure:698.86
+Current altitude:2782.62
+In plane
+DIFF:-3.63
+Current pressure:698.66
+Current altitude:2784.95
+In plane
+DIFF:-2.33
+Current pressure:698.52
+Current altitude:2786.48
+In plane
+DIFF:-1.53
+Current pressure:698.47
+Current altitude:2787.12
+In plane
+DIFF:-0.64
+Current pressure:698.36
+Current altitude:2788.30
+In plane
+DIFF:-1.19
+Current pressure:698.53
+Current altitude:2786.44
+In plane
+DIFF:1.87
+Current pressure:698.55
+Current altitude:2786.14
+In plane
+DIFF:0.30
+Current pressure:698.41
+Current altitude:2787.77
+In plane
+DIFF:-1.63
+Current pressure:698.21
+Current altitude:2790.00
+In plane
+DIFF:-2.23
+Current pressure:698.10
+Current altitude:2791.32
+In plane
+DIFF:-1.32
+Current pressure:698.10
+Current altitude:2791.28
+In plane
+DIFF:0.04
+Current pressure:698.09
+Current altitude:2791.41
+In plane
+DIFF:-0.13
+Current pressure:697.95
+Current altitude:2792.93
+In plane
+DIFF:-1.52
+Current pressure:697.90
+Current altitude:2793.50
+In plane
+DIFF:-0.57
+Current pressure:697.99
+Current altitude:2792.55
+In plane
+DIFF:0.96
+Current pressure:698.04
+Current altitude:2791.91
+In plane
+DIFF:0.63
+Current pressure:698.06
+Current altitude:2791.74
+In plane
+DIFF:0.17
+Current pressure:698.03
+Current altitude:2792.04
+In plane
+DIFF:-0.30
+Current pressure:697.87
+Current altitude:2793.87
+In plane
+DIFF:-1.83
+Current pressure:697.82
+Current altitude:2794.50
+In plane
+DIFF:-0.63
+Current pressure:697.79
+Current altitude:2794.78
+In plane
+DIFF:-0.28
+Current pressure:697.75
+Current altitude:2795.27
+In plane
+DIFF:-0.49
+Current pressure:697.68
+Current altitude:2795.99
+In plane
+DIFF:-0.72
+Current pressure:697.63
+Current altitude:2796.60
+In plane
+DIFF:-0.62
+Current pressure:697.70
+Current altitude:2795.77
+In plane
+DIFF:0.83
+Current pressure:697.73
+Current altitude:2795.50
+In plane
+DIFF:0.27
+Current pressure:698.03
+Current altitude:2792.08
+In plane
+DIFF:3.42
+Current pressure:698.11
+Current altitude:2791.19
+In plane
+DIFF:0.89
+Current pressure:698.02
+Current altitude:2792.19
+In plane
+DIFF:-1.00
+Current pressure:697.77
+Current altitude:2795.05
+In plane
+DIFF:-2.86
+Current pressure:697.69
+Current altitude:2795.94
+In plane
+DIFF:-0.89
+Current pressure:697.56
+Current altitude:2797.39
+In plane
+DIFF:-1.45
+Current pressure:697.45
+Current altitude:2798.62
+In plane
+DIFF:-1.23
+Current pressure:697.49
+Current altitude:2798.17
+In plane
+DIFF:0.45
+Current pressure:697.57
+Current altitude:2797.24
+In plane
+DIFF:0.93
+Current pressure:697.76
+Current altitude:2795.12
+In plane
+DIFF:2.12
+Current pressure:697.85
+Current altitude:2794.08
+In plane
+DIFF:1.04
+Current pressure:697.95
+Current altitude:2792.99
+In plane
+DIFF:1.08
+Current pressure:697.97
+Current altitude:2792.78
+In plane
+DIFF:0.21
+Current pressure:697.98
+Current altitude:2792.59
+In plane
+DIFF:0.19
+Current pressure:698.05
+Current altitude:2791.83
+In plane
+DIFF:0.76
+Current pressure:698.09
+Current altitude:2791.45
+In plane
+DIFF:0.38
+Current pressure:698.20
+Current altitude:2790.13
+In plane
+DIFF:1.32
+Current pressure:698.28
+Current altitude:2789.28
+In plane
+DIFF:0.85
+Current pressure:700.06
+Current altitude:2769.11
+In plane
+DIFF:20.18
+Current pressure:699.67
+Current altitude:2773.55
+In plane
+DIFF:-4.45
+Current pressure:699.87
+Current altitude:2771.27
+In plane
+DIFF:2.29
+Current pressure:699.33
+Current altitude:2777.41
+In plane
+DIFF:-6.14
+Current pressure:699.48
+Current altitude:2775.70
+In plane
+DIFF:1.71
+Current pressure:699.45
+Current altitude:2776.03
+In plane
+DIFF:-0.34
+Current pressure:699.72
+Current altitude:2772.93
+In plane
+DIFF:3.11
+Current pressure:699.49
+Current altitude:2775.58
+In plane
+DIFF:-2.65
+Current pressure:699.79
+Current altitude:2772.13
+In plane
+DIFF:3.45
+Current pressure:700.95
+Current altitude:2759.02
+In plane
+DIFF:13.11
+Current pressure:701.39
+Current altitude:2754.08
+In plane
+DIFF:4.94
+Current pressure:702.40
+Current altitude:2742.67
+In plane
+DIFF:11.41
+Current pressure:700.46
+Current altitude:2764.54
+In plane
+DIFF:-21.87
+Current pressure:699.86
+Current altitude:2771.35
+In plane
+DIFF:-6.81
+Current pressure:700.46
+Current altitude:2764.55
+In plane
+DIFF:6.80
+Current pressure:699.26
+Current altitude:2778.14
+In plane
+DIFF:-13.59
+Current pressure:699.17
+Current altitude:2779.12
+In plane
+DIFF:-0.98
+Current pressure:700.23
+Current altitude:2767.14
+In plane
+DIFF:11.97
+Current pressure:700.05
+Current altitude:2769.22
+In plane
+DIFF:-2.08
+Current pressure:699.94
+Current altitude:2770.47
+In plane
+DIFF:-1.25
+Current pressure:700.42
+Current altitude:2765.08
+In plane
+DIFF:5.39
+Current pressure:700.97
+Current altitude:2758.83
+In plane
+DIFF:6.25
+Current pressure:701.41
+Current altitude:2753.83
+In plane
+DIFF:5.00
+Current pressure:701.89
+Current altitude:2748.45
+In plane
+DIFF:5.38
+Current pressure:702.14
+Current altitude:2745.67
+In plane
+DIFF:2.78
+Current pressure:702.37
+Current altitude:2743.06
+In plane
+DIFF:2.61
+Current pressure:702.66
+Current altitude:2739.82
+In plane
+DIFF:3.24
+Current pressure:702.91
+Current altitude:2737.01
+In plane
+DIFF:2.80
+Current pressure:703.05
+Current altitude:2735.43
+In plane
+DIFF:1.58
+Current pressure:703.44
+Current altitude:2730.97
+In plane
+DIFF:4.46
+Current pressure:703.99
+Current altitude:2724.86
+In plane
+DIFF:6.11
+Current pressure:704.56
+Current altitude:2718.39
+In plane
+DIFF:6.48
+Current pressure:705.26
+Current altitude:2710.49
+In plane
+DIFF:7.90
+Current pressure:706.04
+Current altitude:2701.81
+In plane
+DIFF:8.68
+Current pressure:706.89
+Current altitude:2692.26
+In plane
+DIFF:9.55
+Current pressure:707.72
+Current altitude:2683.00
+In plane
+DIFF:9.26
+Current pressure:708.71
+Current altitude:2671.93
+In plane
+DIFF:11.08
+Current pressure:709.69
+Current altitude:2660.90
+In plane
+DIFF:11.02
+Current pressure:710.70
+Current altitude:2649.67
+In plane
+DIFF:11.24
+Current pressure:711.84
+Current altitude:2636.92
+In plane
+DIFF:12.75
+Current pressure:713.03
+Current altitude:2623.65
+In plane
+DIFF:13.26
+Current pressure:714.28
+Current altitude:2609.77
+In plane
+DIFF:13.88
+Current pressure:715.27
+Current altitude:2598.72
+In plane
+DIFF:11.06
+Current pressure:715.91
+Current altitude:2591.69
+In plane
+DIFF:7.03
+Current pressure:716.85
+Current altitude:2581.26
+In plane
+DIFF:10.43
+Current pressure:717.74
+Current altitude:2571.33
+In plane
+DIFF:9.92
+Current pressure:718.63
+Current altitude:2561.50
+In plane
+DIFF:9.83
+Current pressure:719.39
+Current altitude:2553.15
+In plane
+DIFF:8.35
+Current pressure:720.08
+Current altitude:2545.52
+In plane
+DIFF:7.64
+Current pressure:720.80
+Current altitude:2537.55
+In plane
+DIFF:7.96
+Current pressure:721.39
+Current altitude:2531.02
+In plane
+DIFF:6.54
+Current pressure:722.01
+Current altitude:2524.22
+In plane
+DIFF:6.80
+Current pressure:722.62
+Current altitude:2517.46
+In plane
+DIFF:6.76
+Current pressure:723.20
+Current altitude:2511.09
+In plane
+DIFF:6.37
+Current pressure:723.83
+Current altitude:2504.18
+In plane
+DIFF:6.90
+Current pressure:724.48
+Current altitude:2497.00
+In plane
+DIFF:7.19
+Current pressure:725.17
+Current altitude:2489.48
+In plane
+DIFF:7.52
+Current pressure:725.83
+Current altitude:2482.19
+In plane
+DIFF:7.28
+Current pressure:726.45
+Current altitude:2475.45
+In plane
+DIFF:6.75
+Current pressure:727.15
+Current altitude:2467.75
+In plane
+DIFF:7.70
+Current pressure:727.93
+Current altitude:2459.16
+In plane
+DIFF:8.59
+Current pressure:728.79
+Current altitude:2449.82
+In plane
+DIFF:9.33
+Current pressure:729.69
+Current altitude:2439.93
+In plane
+DIFF:9.90
+Current pressure:730.75
+Current altitude:2428.37
+In plane
+DIFF:11.56
+Current pressure:731.67
+Current altitude:2418.31
+In plane
+DIFF:10.05
+Current pressure:732.54
+Current altitude:2408.86
+In plane
+DIFF:9.46
+Current pressure:733.41
+Current altitude:2399.42
+In plane
+DIFF:9.43
+Current pressure:734.12
+Current altitude:2391.66
+In plane
+DIFF:7.76
+Current pressure:734.66
+Current altitude:2385.81
+In plane
+DIFF:5.85
+Current pressure:735.20
+Current altitude:2379.92
+In plane
+DIFF:5.89
+Current pressure:736.03
+Current altitude:2370.89
+In plane
+DIFF:9.03
+Current pressure:736.88
+Current altitude:2361.69
+In plane
+DIFF:9.21
+Current pressure:738.00
+Current altitude:2349.58
+In plane
+DIFF:12.10
+Current pressure:739.03
+Current altitude:2338.41
+In plane
+DIFF:11.17
+Current pressure:740.44
+Current altitude:2323.22
+In plane
+DIFF:15.19
+Current pressure:741.65
+Current altitude:2310.13
+In plane
+DIFF:13.09
+Current pressure:742.98
+Current altitude:2295.81
+In plane
+DIFF:14.32
+Current pressure:744.38
+Current altitude:2280.82
+In plane
+DIFF:14.99
+Current pressure:745.79
+Current altitude:2265.67
+In plane
+DIFF:15.15
+Current pressure:747.13
+Current altitude:2251.23
+In plane
+DIFF:14.45
+Current pressure:748.40
+Current altitude:2237.70
+In plane
+DIFF:13.53
+Current pressure:749.31
+Current altitude:2227.88
+In plane
+DIFF:9.82
+Current pressure:749.95
+Current altitude:2221.06
+In plane
+DIFF:6.83
+Current pressure:750.72
+Current altitude:2212.90
+In plane
+DIFF:8.15
+Current pressure:751.46
+Current altitude:2204.94
+In plane
+DIFF:7.97
+Current pressure:752.18
+Current altitude:2197.28
+In plane
+DIFF:7.66
+Current pressure:753.13
+Current altitude:2187.14
+In plane
+DIFF:10.14
+Current pressure:754.27
+Current altitude:2175.01
+In plane
+DIFF:12.13
+Current pressure:755.14
+Current altitude:2165.74
+In plane
+DIFF:9.27
+Current pressure:756.17
+Current altitude:2154.87
+In plane
+DIFF:10.87
+Current pressure:757.03
+Current altitude:2145.76
+In plane
+DIFF:9.11
+Current pressure:757.90
+Current altitude:2136.46
+In plane
+DIFF:9.31
+Current pressure:758.81
+Current altitude:2126.90
+In plane
+DIFF:9.56
+Current pressure:759.63
+Current altitude:2118.17
+In plane
+DIFF:8.73
+Current pressure:760.55
+Current altitude:2108.46
+In plane
+DIFF:9.71
+Current pressure:761.51
+Current altitude:2098.37
+In plane
+DIFF:10.09
+Current pressure:762.31
+Current altitude:2089.91
+In plane
+DIFF:8.46
+Current pressure:763.16
+Current altitude:2080.96
+In plane
+DIFF:8.94
+Current pressure:763.87
+Current altitude:2073.43
+In plane
+DIFF:7.53
+Current pressure:764.62
+Current altitude:2065.56
+In plane
+DIFF:7.87
+Current pressure:765.40
+Current altitude:2057.41
+In plane
+DIFF:8.15
+Current pressure:766.04
+Current altitude:2050.63
+In plane
+DIFF:6.78
+Current pressure:766.78
+Current altitude:2042.86
+In plane
+DIFF:7.78
+Current pressure:767.43
+Current altitude:2036.02
+In plane
+DIFF:6.84
+Current pressure:768.00
+Current altitude:2030.05
+In plane
+DIFF:5.97
+Current pressure:768.53
+Current altitude:2024.47
+In plane
+DIFF:5.58
+Current pressure:769.11
+Current altitude:2018.48
+In plane
+DIFF:6.00
+Current pressure:769.75
+Current altitude:2011.70
+In plane
+DIFF:6.78
+Current pressure:770.37
+Current altitude:2005.29
+In plane
+DIFF:6.41
+Current pressure:770.85
+Current altitude:2000.24
+In plane
+DIFF:5.05
+Current pressure:771.35
+Current altitude:1995.02
+In plane
+DIFF:5.21
+Current pressure:771.77
+Current altitude:1990.64
+In plane
+DIFF:4.38
+Current pressure:771.94
+Current altitude:1988.85
+In plane
+DIFF:1.79
+Current pressure:772.90
+Current altitude:1978.81
+In plane
+DIFF:10.04
+Current pressure:773.73
+Current altitude:1970.15
+In plane
+DIFF:8.66
+Current pressure:774.58
+Current altitude:1961.30
+In plane
+DIFF:8.85
+Current pressure:775.22
+Current altitude:1954.66
+In plane
+DIFF:6.64
+Current pressure:775.85
+Current altitude:1948.11
+In plane
+DIFF:6.56
+Current pressure:776.64
+Current altitude:1939.91
+In plane
+DIFF:8.20
+Current pressure:777.44
+Current altitude:1931.66
+In plane
+DIFF:8.25
+Current pressure:778.51
+Current altitude:1920.56
+In plane
+DIFF:11.10
+Current pressure:779.83
+Current altitude:1906.88
+In plane
+DIFF:13.68
+Current pressure:780.79
+Current altitude:1896.93
+In plane
+DIFF:9.96
+Current pressure:781.89
+Current altitude:1885.51
+In plane
+DIFF:11.41
+Current pressure:782.91
+Current altitude:1874.99
+In plane
+DIFF:10.52
+Current pressure:784.02
+Current altitude:1863.54
+In plane
+DIFF:11.45
+Current pressure:784.83
+Current altitude:1855.21
+In plane
+DIFF:8.33
+Current pressure:785.70
+Current altitude:1846.31
+In plane
+DIFF:8.90
+Current pressure:786.68
+Current altitude:1836.18
+In plane
+DIFF:10.13
+Current pressure:787.83
+Current altitude:1824.34
+In plane
+DIFF:11.84
+Current pressure:789.23
+Current altitude:1810.06
+In plane
+DIFF:14.29
+Current pressure:790.57
+Current altitude:1796.25
+In plane
+DIFF:13.80
+Current pressure:791.94
+Current altitude:1782.29
+In plane
+DIFF:13.97
+Current pressure:793.14
+Current altitude:1770.01
+In plane
+DIFF:12.27
+Current pressure:794.50
+Current altitude:1756.12
+In plane
+DIFF:13.90
+Current pressure:795.94
+Current altitude:1741.46
+In plane
+DIFF:14.65
+Current pressure:797.11
+Current altitude:1729.55
+In plane
+DIFF:11.91
+Current pressure:798.43
+Current altitude:1716.13
+In plane
+DIFF:13.43
+Current pressure:799.92
+Current altitude:1701.05
+In plane
+DIFF:15.07
+Current pressure:801.37
+Current altitude:1686.34
+In plane
+DIFF:14.71
+Current pressure:802.59
+Current altitude:1673.92
+In plane
+DIFF:12.42
+Current pressure:803.74
+Current altitude:1662.34
+In plane
+DIFF:11.58
+Current pressure:804.74
+Current altitude:1652.25
+In plane
+DIFF:10.09
+Current pressure:805.78
+Current altitude:1641.72
+In plane
+DIFF:10.53
+Current pressure:806.70
+Current altitude:1632.53
+In plane
+DIFF:9.20
+Current pressure:807.15
+Current altitude:1628.00
+In plane
+DIFF:4.53
+Current pressure:807.93
+Current altitude:1620.05
+In plane
+DIFF:7.95
+Current pressure:808.45
+Current altitude:1614.90
+In plane
+DIFF:5.16
+Current pressure:809.37
+Current altitude:1605.65
+In plane
+DIFF:9.25
+Current pressure:810.27
+Current altitude:1596.63
+In plane
+DIFF:9.02
+Current pressure:811.05
+Current altitude:1588.75
+In plane
+DIFF:7.88
+Current pressure:812.14
+Current altitude:1577.80
+In plane
+DIFF:10.95
+Current pressure:813.03
+Current altitude:1568.96
+In plane
+DIFF:8.84
+Current pressure:814.26
+Current altitude:1556.64
+In plane
+DIFF:12.31
+Current pressure:815.40
+Current altitude:1545.24
+In plane
+DIFF:11.40
+Current pressure:816.66
+Current altitude:1532.62
+In plane
+DIFF:12.62
+Current pressure:817.92
+Current altitude:1520.06
+In plane
+DIFF:12.57
+TRIGGER!
+Current pressure:819.33
+Current altitude:1506.09
+In plane
+DIFF:13.96
+TRIGGER!
+Current pressure:820.67
+Current altitude:1492.78
+In plane
+DIFF:13.31
+TRIGGER!
+Current pressure:821.99
+Current altitude:1479.67
+In plane
+DIFF:13.11
+TRIGGER!
+Current pressure:823.31
+Current altitude:1466.58
+In plane
+DIFF:13.09
+TRIGGER!
+Current pressure:824.78
+Current altitude:1452.06
+In plane
+DIFF:14.52
+TRIGGER!
+Current pressure:826.05
+Current altitude:1439.41
+In plane
+DIFF:12.65
+TRIGGER!
+Current pressure:827.32
+Current altitude:1426.96
+In plane
+DIFF:12.45
+TRIGGER!
+Current pressure:828.50
+Current altitude:1415.30
+In plane
+DIFF:11.66
+TRIGGER!
+Current pressure:829.88
+Current altitude:1401.66
+In plane
+DIFF:13.64
+TRIGGER!
+Current pressure:830.93
+Current altitude:1391.32
+In plane
+DIFF:10.34
+TRIGGER!
+Current pressure:831.71
+Current altitude:1383.71
+In plane
+DIFF:7.61
+TRIGGER!
+Current pressure:832.98
+Current altitude:1371.26
+In plane
+DIFF:12.45
+TRIGGER!
+Current pressure:833.86
+Current altitude:1362.55
+In plane
+DIFF:8.70
+TRIGGER!
+Current pressure:834.54
+Current altitude:1355.92
+In plane
+DIFF:6.63
+TRIGGER!
+Current pressure:835.91
+Current altitude:1342.55
+In plane
+DIFF:13.38
+TRIGGER!
+Current pressure:837.03
+Current altitude:1331.57
+In plane
+DIFF:10.98
+TRIGGER!
+Current pressure:837.65
+Current altitude:1325.47
+In plane
+DIFF:6.10
+TRIGGER!
+Current pressure:837.91
+Current altitude:1322.99
+In plane
+DIFF:2.48
+Current pressure:838.92
+Current altitude:1313.13
+In plane
+DIFF:9.86
+TRIGGER!
+Current pressure:839.38
+Current altitude:1308.63
+In plane
+DIFF:4.49
+Current pressure:839.93
+Current altitude:1303.20
+In plane
+DIFF:5.43
+TRIGGER!
+Current pressure:840.87
+Current altitude:1294.09
+In plane
+DIFF:9.11
+TRIGGER!
+Current pressure:841.55
+Current altitude:1287.42
+In plane
+DIFF:6.67
+TRIGGER!
+Current pressure:842.14
+Current altitude:1281.68
+In plane
+DIFF:5.75
+TRIGGER!
+Current pressure:842.80
+Current altitude:1275.28
+In plane
+DIFF:6.39
+TRIGGER!
+Current pressure:843.28
+Current altitude:1270.67
+In plane
+DIFF:4.62
+Current pressure:844.32
+Current altitude:1260.49
+In plane
+DIFF:10.18
+TRIGGER!
+Current pressure:845.17
+Current altitude:1252.29
+In plane
+DIFF:8.20
+TRIGGER!
+Current pressure:845.22
+Current altitude:1251.81
+In plane
+DIFF:0.47
+Current pressure:846.43
+Current altitude:1240.03
+In plane
+DIFF:11.78
+TRIGGER!
+Current pressure:846.43
+Current altitude:1240.08
+In plane
+DIFF:-0.05
+Current pressure:847.20
+Current altitude:1232.60
+In plane
+DIFF:7.47
+TRIGGER!
+Current pressure:848.38
+Current altitude:1221.20
+In plane
+DIFF:11.40
+TRIGGER!
+Current pressure:849.10
+Current altitude:1214.20
+In plane
+DIFF:7.01
+TRIGGER!
+Current pressure:849.59
+Current altitude:1209.46
+In plane
+DIFF:4.73
+Current pressure:850.46
+Current altitude:1201.09
+In plane
+DIFF:8.38
+TRIGGER!
+Current pressure:852.15
+Current altitude:1184.82
+In plane
+DIFF:16.27
+TRIGGER!
+Current pressure:852.83
+Current altitude:1178.26
+In plane
+DIFF:6.56
+TRIGGER!
+Current pressure:853.64
+Current altitude:1170.44
+In plane
+DIFF:7.82
+TRIGGER!
+Current pressure:854.74
+Current altitude:1159.84
+In plane
+DIFF:10.60
+TRIGGER!
+Current pressure:856.11
+Current altitude:1146.76
+In plane
+DIFF:13.08
+TRIGGER!
+Current pressure:857.13
+Current altitude:1136.96
+In plane
+DIFF:9.80
+TRIGGER!
+Current pressure:858.28
+Current altitude:1125.96
+In plane
+DIFF:11.01
+TRIGGER!
+Current pressure:858.84
+Current altitude:1120.59
+In plane
+DIFF:5.37
+TRIGGER!
+Current pressure:860.66
+Current altitude:1103.12
+In plane
+DIFF:17.47
+TRIGGER!
+Current pressure:861.50
+Current altitude:1095.13
+In plane
+DIFF:8.00
+TRIGGER!
+Current pressure:862.40
+Current altitude:1086.51
+In plane
+DIFF:8.62
+TRIGGER!
+Current pressure:864.22
+Current altitude:1069.17
+In plane
+DIFF:17.34
+TRIGGER!
+Current pressure:866.02
+Current altitude:1052.09
+In plane
+DIFF:17.08
+TRIGGER!
+Current pressure:867.60
+Current altitude:1037.05
+In plane
+DIFF:15.05
+TRIGGER!
+Current pressure:868.38
+Current altitude:1029.63
+In plane
+DIFF:7.42
+TRIGGER!
+Current pressure:869.83
+Current altitude:1015.86
+In plane
+DIFF:13.77
+TRIGGER!
+Current pressure:871.72
+Current altitude:998.01
+In plane
+DIFF:17.85
+TRIGGER!
+Current pressure:872.42
+Current altitude:991.36
+In plane
+DIFF:6.65
+TRIGGER!
+Current pressure:874.53
+Current altitude:971.45
+In plane
+DIFF:19.91
+TRIGGER!
+Current pressure:875.72
+Current altitude:960.24
+In plane
+DIFF:11.21
+TRIGGER!
+Current pressure:877.49
+Current altitude:943.52
+In plane
+DIFF:16.72
+TRIGGER!
+Current pressure:878.09
+Current altitude:937.92
+In plane
+DIFF:5.60
+TRIGGER!
+Current pressure:879.40
+Current altitude:925.57
+In plane
+DIFF:12.35
+TRIGGER!
+Current pressure:880.66
+Current altitude:913.80
+In plane
+DIFF:11.77
+TRIGGER!
+Current pressure:880.89
+Current altitude:911.62
+In plane
+DIFF:2.18
+Current pressure:881.67
+Current altitude:904.27
+In plane
+DIFF:7.35
+TRIGGER!
+Current pressure:882.85
+Current altitude:893.22
+In plane
+DIFF:11.05
+TRIGGER!
+Current pressure:883.43
+Current altitude:887.86
+In plane
+DIFF:5.36
+TRIGGER!
+Current pressure:884.38
+Current altitude:878.90
+In plane
+DIFF:8.95
+TRIGGER!
+Current pressure:885.10
+Current altitude:872.18
+In plane
+DIFF:6.72
+TRIGGER!
+Current pressure:885.68
+Current altitude:866.80
+In plane
+DIFF:5.38
+TRIGGER!
+Current pressure:886.52
+Current altitude:858.91
+In plane
+DIFF:7.88
+TRIGGER!
+Current pressure:887.86
+Current altitude:846.43
+In plane
+DIFF:12.48
+TRIGGER!
+Current pressure:889.15
+Current altitude:834.41
+In plane
+DIFF:12.03
+TRIGGER!
+Current pressure:890.38
+Current altitude:822.99
+In plane
+DIFF:11.42
+TRIGGER!
+Current pressure:891.47
+Current altitude:812.82
+In plane
+DIFF:10.17
+TRIGGER!
+Current pressure:892.77
+Current altitude:800.81
+In plane
+DIFF:12.00
+TRIGGER!
+Current pressure:894.06
+Current altitude:788.83
+In plane
+DIFF:11.98
+TRIGGER!
+Current pressure:895.24
+Current altitude:777.91
+In plane
+DIFF:10.92
+TRIGGER!
+Current pressure:896.07
+Current altitude:770.19
+In plane
+DIFF:7.73
+TRIGGER!
+Current pressure:897.22
+Current altitude:759.60
+In plane
+DIFF:10.59
+TRIGGER!
+Current pressure:898.20
+Current altitude:750.51
+In plane
+DIFF:9.09
+TRIGGER!
+Current pressure:899.30
+Current altitude:740.34
+In plane
+DIFF:10.16
+TRIGGER!
+Current pressure:900.37
+Current altitude:730.51
+In plane
+DIFF:9.83
+TRIGGER!
+Current pressure:901.82
+Current altitude:717.19
+In plane
+DIFF:13.32
+TRIGGER!
+Current pressure:903.00
+Current altitude:706.26
+In plane
+DIFF:10.92
+TRIGGER!
+Current pressure:904.79
+Current altitude:689.82
+In plane
+DIFF:16.44
+TRIGGER!
+Current pressure:906.08
+Current altitude:678.00
+In plane
+DIFF:11.82
+TRIGGER!
+Current pressure:907.48
+Current altitude:665.21
+In plane
+DIFF:12.79
+TRIGGER!
+Current pressure:908.74
+Current altitude:653.66
+In plane
+DIFF:11.55
+TRIGGER!
+Current pressure:910.09
+Current altitude:641.30
+In plane
+DIFF:12.36
+TRIGGER!
+Current pressure:910.66
+Current altitude:636.16
+In plane
+DIFF:5.14
+TRIGGER!
+Current pressure:911.62
+Current altitude:627.35
+In plane
+DIFF:8.81
+TRIGGER!
+Current pressure:912.39
+Current altitude:620.33
+In plane
+DIFF:7.02
+TRIGGER!
+Current pressure:913.34
+Current altitude:611.65
+In plane
+DIFF:8.67
+TRIGGER!
+Current pressure:913.39
+Current altitude:611.23
+In plane
+DIFF:0.42
+Current pressure:914.35
+Current altitude:602.49
+In plane
+DIFF:8.75
+TRIGGER!
+Current pressure:913.88
+Current altitude:606.79
+In plane
+DIFF:-4.30
+Current pressure:914.34
+Current altitude:602.55
+In plane
+DIFF:4.24
+Current pressure:914.69
+Current altitude:599.41
+In plane
+DIFF:3.14
+Current pressure:914.99
+Current altitude:596.67
+In plane
+DIFF:2.75
+Current pressure:915.02
+Current altitude:596.38
+In plane
+DIFF:0.28
+Current pressure:915.37
+Current altitude:593.19
+In plane
+DIFF:3.20
+Current pressure:915.61
+Current altitude:591.06
+In plane
+DIFF:2.12
+Current pressure:916.45
+Current altitude:583.41
+In plane
+DIFF:7.65
+TRIGGER!
+Current pressure:917.03
+Current altitude:578.13
+In plane
+DIFF:5.28
+TRIGGER!
+Current pressure:917.57
+Current altitude:573.24
+In plane
+DIFF:4.89
+Current pressure:918.21
+Current altitude:567.43
+In plane
+DIFF:5.81
+TRIGGER!
+Current pressure:918.91
+Current altitude:561.06
+In plane
+DIFF:6.37
+TRIGGER!
+Current pressure:919.61
+Current altitude:554.78
+In plane
+DIFF:6.29
+TRIGGER!
+Current pressure:920.34
+Current altitude:548.10
+In plane
+DIFF:6.68
+TRIGGER!
+Current pressure:921.00
+Current altitude:542.17
+In plane
+DIFF:5.93
+TRIGGER!
+Current pressure:921.71
+Current altitude:535.73
+In plane
+DIFF:6.45
+TRIGGER!
+Current pressure:921.85
+Current altitude:534.42
+In plane
+DIFF:1.31
+Current pressure:922.38
+Current altitude:529.68
+In plane
+DIFF:4.74
+Current pressure:923.01
+Current altitude:524.00
+In plane
+DIFF:5.68
+TRIGGER!
+Current pressure:923.34
+Current altitude:520.97
+In plane
+DIFF:3.03
+Current pressure:923.70
+Current altitude:517.74
+In plane
+DIFF:3.23
+Current pressure:924.07
+Current altitude:514.46
+In plane
+DIFF:3.28
+Current pressure:924.28
+Current altitude:512.56
+In plane
+DIFF:1.90
+Current pressure:924.74
+Current altitude:508.41
+In plane
+DIFF:4.15
+Current pressure:925.19
+Current altitude:504.33
+In plane
+DIFF:4.08
+Current pressure:925.71
+Current altitude:499.62
+In plane
+DIFF:4.71
+Current pressure:926.22
+Current altitude:495.00
+In plane
+DIFF:4.62
+Current pressure:926.15
+Current altitude:495.64
+In plane
+DIFF:-0.64
+Current pressure:926.56
+Current altitude:491.94
+In plane
+DIFF:3.70
+Current pressure:926.82
+Current altitude:489.63
+In plane
+DIFF:2.32
+Current pressure:927.34
+Current altitude:484.97
+In plane
+DIFF:4.66
+Current pressure:927.85
+Current altitude:480.33
+In plane
+DIFF:4.64
+Current pressure:928.63
+Current altitude:473.33
+In plane
+DIFF:7.00
+TRIGGER!
+Current pressure:929.49
+Current altitude:465.62
+In plane
+DIFF:7.72
+TRIGGER!
+Current pressure:930.57
+Current altitude:455.92
+In plane
+DIFF:9.70
+TRIGGER!
+Current pressure:931.84
+Current altitude:444.56
+In plane
+DIFF:11.36
+TRIGGER!
+Current pressure:932.36
+Current altitude:439.88
+In plane
+DIFF:4.68
+Current pressure:933.58
+Current altitude:428.99
+In plane
+DIFF:10.89
+TRIGGER!
+Current pressure:934.19
+Current altitude:423.46
+In plane
+DIFF:5.53
+TRIGGER!
+Current pressure:934.72
+Current altitude:418.78
+In plane
+DIFF:4.68
+Current pressure:935.50
+Current altitude:411.80
+In plane
+DIFF:6.98
+TRIGGER!
+Current pressure:936.44
+Current altitude:403.41
+In plane
+DIFF:8.39
+TRIGGER!
+Current pressure:938.11
+Current altitude:388.52
+In plane
+DIFF:14.89
+TRIGGER!
+Current pressure:938.94
+Current altitude:381.07
+In plane
+DIFF:7.45
+TRIGGER!
+Current pressure:939.61
+Current altitude:375.17
+In plane
+DIFF:5.90
+TRIGGER!
+Current pressure:940.14
+Current altitude:370.43
+In plane
+DIFF:4.73
+Current pressure:940.95
+Current altitude:363.20
+In plane
+DIFF:7.24
+TRIGGER!
+Current pressure:941.32
+Current altitude:359.95
+In plane
+DIFF:3.25
+Current pressure:941.96
+Current altitude:354.26
+In plane
+DIFF:5.69
+TRIGGER!
+Current pressure:942.25
+Current altitude:351.68
+In plane
+DIFF:2.58
+Current pressure:943.23
+Current altitude:342.98
+In plane
+DIFF:8.71
+TRIGGER!
+Current pressure:944.29
+Current altitude:333.52
+In plane
+DIFF:9.45
+TRIGGER!
+Current pressure:944.66
+Current altitude:330.31
+In plane
+DIFF:3.21
+Current pressure:945.48
+Current altitude:323.04
+In plane
+DIFF:7.27
+TRIGGER!
+Current pressure:945.88
+Current altitude:319.49
+In plane
+DIFF:3.55
+Current pressure:946.69
+Current altitude:312.30
+In plane
+DIFF:7.19
+TRIGGER!
+Current pressure:946.98
+Current altitude:309.72
+In plane
+DIFF:2.58
+Current pressure:947.49
+Current altitude:305.20
+In plane
+DIFF:4.52
+Current pressure:947.82
+Current altitude:302.28
+In plane
+DIFF:2.91
+Current pressure:948.54
+Current altitude:295.98
+In plane
+DIFF:6.30
+TRIGGER!
+Current pressure:949.06
+Current altitude:291.35
+In plane
+DIFF:4.63
+Current pressure:950.30
+Current altitude:280.43
+In plane
+DIFF:10.92
+TRIGGER!
+Current pressure:950.89
+Current altitude:275.23
+In plane
+DIFF:5.20
+TRIGGER!
+Current pressure:951.41
+Current altitude:270.66
+In plane
+DIFF:4.57
+Current pressure:951.74
+Current altitude:267.72
+In plane
+DIFF:2.94
+Current pressure:952.30
+Current altitude:262.79
+In plane
+DIFF:4.93
+Current pressure:953.18
+Current altitude:255.05
+In plane
+DIFF:7.74
+TRIGGER!
+Current pressure:954.07
+Current altitude:247.17
+In plane
+DIFF:7.87
+TRIGGER!
+Current pressure:954.37
+Current altitude:244.59
+In plane
+DIFF:2.58
+Current pressure:954.36
+Current altitude:244.64
+In plane
+DIFF:-0.05
+Current pressure:954.90
+Current altitude:239.93
+In plane
+DIFF:4.71
+Current pressure:955.49
+Current altitude:234.73
+In plane
+DIFF:5.20
+TRIGGER!
+Current pressure:955.73
+Current altitude:232.64
+In plane
+DIFF:2.09
+Current pressure:955.78
+Current altitude:232.22
+In plane
+DIFF:0.43
+Current pressure:956.40
+Current altitude:226.71
+In plane
+DIFF:5.51
+TRIGGER!
+Current pressure:956.57
+Current altitude:225.25
+In plane
+DIFF:1.46
+Current pressure:956.88
+Current altitude:222.57
+In plane
+DIFF:2.68
+Current pressure:957.10
+Current altitude:220.62
+In plane
+DIFF:1.95
+Current pressure:957.27
+Current altitude:219.09
+In plane
+DIFF:1.53
+Current pressure:958.29
+Current altitude:210.19
+In plane
+DIFF:8.90
+TRIGGER!
+Current pressure:958.49
+Current altitude:208.39
+In plane
+DIFF:1.80
+Current pressure:959.35
+Current altitude:200.91
+In plane
+DIFF:7.48
+TRIGGER!
+Current pressure:959.01
+Current altitude:203.86
+In plane
+DIFF:-2.95
+Current pressure:958.99
+Current altitude:204.01
+In plane
+DIFF:-0.15
+Current pressure:959.76
+Current altitude:197.33
+In plane
+DIFF:6.67
+TRIGGER!
+Current pressure:960.40
+Current altitude:191.73
+In plane
+DIFF:5.60
+TRIGGER!
+Current pressure:961.31
+Current altitude:183.74
+In plane
+DIFF:7.99
+TRIGGER!
+Current pressure:961.64
+Current altitude:180.86
+In plane
+DIFF:2.88
+Current pressure:962.12
+Current altitude:176.69
+In plane
+DIFF:4.17
+Current pressure:962.84
+Current altitude:170.41
+In plane
+DIFF:6.28
+TRIGGER!
+Current pressure:963.72
+Current altitude:162.75
+In plane
+DIFF:7.66
+TRIGGER!
+Current pressure:963.83
+Current altitude:161.76
+In plane
+DIFF:0.98
+Current pressure:963.47
+Current altitude:164.87
+In plane
+DIFF:-3.10
+Current pressure:964.52
+Current altitude:155.70
+In plane
+DIFF:9.16
+TRIGGER!
+Current pressure:965.27
+Current altitude:149.19
+In plane
+DIFF:6.51
+TRIGGER!
+Current pressure:966.15
+Current altitude:141.51
+In plane
+DIFF:7.68
+TRIGGER!
+Current pressure:966.80
+Current altitude:135.88
+In plane
+DIFF:5.63
+TRIGGER!
+Current pressure:967.25
+Current altitude:131.93
+In plane
+DIFF:3.95
+Current pressure:967.56
+Current altitude:129.24
+In plane
+DIFF:2.70
+Current pressure:967.90
+Current altitude:126.31
+In plane
+DIFF:2.93
+Current pressure:969.05
+Current altitude:116.35
+In plane
+DIFF:9.96
+TRIGGER!
+Current pressure:969.28
+Current altitude:114.30
+In plane
+DIFF:2.05
+Current pressure:969.85
+Current altitude:109.42
+In plane
+DIFF:4.88
+Current pressure:970.81
+Current altitude:101.02
+In plane
+DIFF:8.40
+TRIGGER!
+Current pressure:970.76
+Current altitude:101.53
+In plane
+DIFF:-0.51
+Current pressure:971.42
+Current altitude:95.81
+In plane
+DIFF:5.72
+TRIGGER!
+Current pressure:972.21
+Current altitude:88.92
+In plane
+DIFF:6.88
+TRIGGER!
+Current pressure:972.94
+Current altitude:82.63
+In plane
+DIFF:6.29
+TRIGGER!
+Current pressure:973.00
+Current altitude:82.06
+In plane
+DIFF:0.57
+Current pressure:973.05
+Current altitude:81.62
+In plane
+DIFF:0.44
+Current pressure:973.82
+Current altitude:75.01
+In plane
+DIFF:6.61
+TRIGGER!
+Current pressure:973.95
+Current altitude:73.84
+In plane
+DIFF:1.17
+Current pressure:974.98
+Current altitude:64.94
+In plane
+DIFF:8.91
+TRIGGER!
+Current pressure:975.38
+Current altitude:61.50
+In plane
+DIFF:3.44
+Current pressure:975.71
+Current altitude:58.70
+In plane
+DIFF:2.80
+Current pressure:975.88
+Current altitude:57.23
+In plane
+DIFF:1.47
+Current pressure:976.45
+Current altitude:52.26
+In plane
+DIFF:4.97
+Current pressure:976.54
+Current altitude:51.50
+In plane
+DIFF:0.76
+Current pressure:977.36
+Current altitude:44.42
+In plane
+DIFF:7.08
+TRIGGER!
+Current pressure:977.38
+Current altitude:44.24
+In plane
+DIFF:0.17
+Current pressure:978.05
+Current altitude:38.47
+In plane
+DIFF:5.77
+TRIGGER!
+Current pressure:978.60
+Current altitude:33.73
+In plane
+DIFF:4.75
+Current pressure:979.29
+Current altitude:27.78
+In plane
+DIFF:5.95
+TRIGGER!
+Current pressure:979.64
+Current altitude:24.80
+In plane
+DIFF:2.99
+Current pressure:979.90
+Current altitude:22.54
+In plane
+DIFF:2.26
+Current pressure:980.83
+Current altitude:14.57
+In plane
+DIFF:7.97
+TRIGGER!
+Current pressure:981.09
+Current altitude:12.34
+In plane
+DIFF:2.24
+Current pressure:981.99
+Current altitude:4.60
+In plane
+DIFF:7.73
+TRIGGER!
+Current pressure:982.15
+Current altitude:3.18
+In plane
+DIFF:1.42
+Current pressure:982.59
+Current altitude:-0.58
+In plane
+DIFF:3.75
+Current pressure:982.76
+Current altitude:-2.04
+In plane
+DIFF:1.46
+Current pressure:983.44
+Current altitude:-7.83
+In plane
+DIFF:5.79
+TRIGGER!
+Current pressure:983.86
+Current altitude:-11.49
+In plane
+DIFF:3.66
+Current pressure:984.06
+Current altitude:-13.18
+In plane
+DIFF:1.69
+Current pressure:984.47
+Current altitude:-16.74
+In plane
+DIFF:3.56
+Current pressure:984.32
+Current altitude:-15.42
+In plane
+DIFF:-1.33
+Current pressure:984.75
+Current altitude:-19.12
+In plane
+DIFF:3.71
+Current pressure:984.28
+Current altitude:-15.03
+In plane
+DIFF:-4.10
+Current pressure:984.05
+Current altitude:-13.11
+In plane
+DIFF:-1.92
+Current pressure:983.89
+Current altitude:-11.74
+In plane
+DIFF:-1.37
+Current pressure:983.98
+Current altitude:-12.51
+In plane
+DIFF:0.78
+Current pressure:983.89
+Current altitude:-11.72
+In plane
+DIFF:-0.80
+Current pressure:983.88
+Current altitude:-11.62
+In plane
+DIFF:-0.10
+Current pressure:983.82
+Current altitude:-11.15
+In plane
+DIFF:-0.47
+Current pressure:983.88
+Current altitude:-11.68
+In plane
+DIFF:0.53
+Current pressure:983.69
+Current altitude:-10.03
+In plane
+DIFF:-1.65
+Current pressure:983.69
+Current altitude:-9.97
+In plane
+DIFF:-0.06
+Current pressure:983.66
+Current altitude:-9.73
+In plane
+DIFF:-0.24
+Current pressure:983.70
+Current altitude:-10.10
+In plane
+DIFF:0.37
+Current pressure:983.68
+Current altitude:-9.93
+In plane
+DIFF:-0.17
+Current pressure:983.60
+Current altitude:-9.21
+In plane
+DIFF:-0.72
+Current pressure:983.52
+Current altitude:-8.52
+In plane
+DIFF:-0.69
+Current pressure:983.46
+Current altitude:-8.07
+In plane
+DIFF:-0.44
+Current pressure:983.44
+Current altitude:-7.85
+In plane
+DIFF:-0.23
+Current pressure:983.43
+Current altitude:-7.79
+In plane
+DIFF:-0.06
+Current pressure:983.43
+Current altitude:-7.82
+In plane
+DIFF:0.03
+Current pressure:983.40
+Current altitude:-7.56
+In plane
+DIFF:-0.26
+Current pressure:983.47
+Current altitude:-8.15
+In plane
+DIFF:0.59
+Current pressure:983.50
+Current altitude:-8.37
+In plane
+DIFF:0.22
+Current pressure:983.42
+Current altitude:-7.68
+In plane
+DIFF:-0.68
+Current pressure:983.33
+Current altitude:-6.97
+In plane
+DIFF:-0.72
+Current pressure:983.41
+Current altitude:-7.58
+In plane
+DIFF:0.61
+Current pressure:983.32
+Current altitude:-6.88
+In plane
+DIFF:-0.70
+Current pressure:983.38
+Current altitude:-7.32
+In plane
+DIFF:0.44
+Current pressure:983.40
+Current altitude:-7.56
+In plane
+DIFF:0.23
+Current pressure:983.46
+Current altitude:-8.06
+In plane
+DIFF:0.50
+Current pressure:983.40
+Current altitude:-7.51
+In plane
+DIFF:-0.54
+Current pressure:983.34
+Current altitude:-7.02
+In plane
+DIFF:-0.50
+Current pressure:983.37
+Current altitude:-7.25
+In plane
+DIFF:0.23
+Current pressure:983.40
+Current altitude:-7.54
+In plane
+DIFF:0.30
+Current pressure:983.31
+Current altitude:-6.76
+In plane
+DIFF:-0.78
+Current pressure:983.38
+Current altitude:-7.38
+In plane
+DIFF:0.62
+Current pressure:983.36
+Current altitude:-7.16
+In plane
+DIFF:-0.22
+Current pressure:983.29
+Current altitude:-6.61
+In plane
+DIFF:-0.54
+Current pressure:983.43
+Current altitude:-7.81
+In plane
+DIFF:1.19
+Current pressure:983.42
+Current altitude:-7.70
+In plane
+DIFF:-0.11
+Current pressure:983.42
+Current altitude:-7.67
+In plane
+DIFF:-0.03
+Current pressure:983.34
+Current altitude:-7.04
+In plane
+DIFF:-0.62
+Current pressure:983.31
+Current altitude:-6.79
+In plane
+DIFF:-0.26
+Current pressure:983.28
+Current altitude:-6.47
+In plane
+DIFF:-0.32
+Current pressure:983.26
+Current altitude:-6.31
+In plane
+DIFF:-0.16
+Current pressure:983.17
+Current altitude:-5.57
+In plane
+DIFF:-0.74
+Current pressure:983.13
+Current altitude:-5.25
+In plane
+DIFF:-0.32
+Current pressure:983.11
+Current altitude:-5.01
+In plane
+DIFF:-0.24
+Current pressure:983.12
+Current altitude:-5.13
+In plane
+DIFF:0.12
+Current pressure:983.04
+Current altitude:-4.45
+In plane
+DIFF:-0.68
+Current pressure:983.11
+Current altitude:-5.00
+In plane
+DIFF:0.55
+Current pressure:983.12
+Current altitude:-5.09
+In plane
+DIFF:0.08
+Current pressure:983.04
+Current altitude:-4.47
+In plane
+DIFF:-0.62
+Current pressure:983.02
+Current altitude:-4.28
+In plane
+DIFF:-0.19
+Current pressure:983.01
+Current altitude:-4.21
+In plane
+DIFF:-0.06
+Current pressure:982.96
+Current altitude:-3.72
+In plane
+DIFF:-0.50
+Current pressure:982.95
+Current altitude:-3.69
+In plane
+DIFF:-0.02
+Current pressure:983.06
+Current altitude:-4.64
+In plane
+DIFF:0.95
+Current pressure:983.02
+Current altitude:-4.28
+In plane
+DIFF:-0.36
+Current pressure:983.02
+Current altitude:-4.25
+In plane
+DIFF:-0.03
+Current pressure:983.04
+Current altitude:-4.42
+In plane
+DIFF:0.16
+Current pressure:983.00
+Current altitude:-4.06
+In plane
+DIFF:-0.35
+Current pressure:983.04
+Current altitude:-4.42
+In plane
+DIFF:0.36
+Current pressure:983.01
+Current altitude:-4.16
+In plane
+DIFF:-0.26
+Current pressure:982.97
+Current altitude:-3.85
+In plane
+DIFF:-0.32
+Current pressure:982.97
+Current altitude:-3.84
+In plane
+DIFF:-0.01
+Current pressure:983.02
+Current altitude:-4.29
+In plane
+DIFF:0.45
+Current pressure:983.06
+Current altitude:-4.63
+In plane
+DIFF:0.34
+Current pressure:982.96
+Current altitude:-3.75
+In plane
+DIFF:-0.88
+Current pressure:983.03
+Current altitude:-4.39
+In plane
+DIFF:0.63
+Current pressure:983.00
+Current altitude:-4.11
+In plane
+DIFF:-0.28
+Current pressure:982.98
+Current altitude:-3.93
+In plane
+DIFF:-0.17
+Current pressure:983.05
+Current altitude:-4.48
+In plane
+DIFF:0.55
+Current pressure:983.10
+Current altitude:-4.93
+In plane
+DIFF:0.45
+Current pressure:983.13
+Current altitude:-5.20
+In plane
+DIFF:0.27
+Current pressure:983.00
+Current altitude:-4.12
+In plane
+DIFF:-1.08
+Current pressure:983.11
+Current altitude:-5.02
+In plane
+DIFF:0.90
+Current pressure:983.11
+Current altitude:-5.00
+In plane
+DIFF:-0.02
+Current pressure:983.05
+Current altitude:-4.54
+In plane
+DIFF:-0.45
+Current pressure:983.03
+Current altitude:-4.39
+In plane
+DIFF:-0.15
+Current pressure:983.14
+Current altitude:-5.26
+In plane
+DIFF:0.87
+Current pressure:983.11
+Current altitude:-5.07
+In plane
+DIFF:-0.19
+Current pressure:983.13
+Current altitude:-5.18
+In plane
+DIFF:0.11
+Current pressure:983.14
+Current altitude:-5.26
+In plane
+DIFF:0.08
+Current pressure:983.18
+Current altitude:-5.64
+In plane
+DIFF:0.38
