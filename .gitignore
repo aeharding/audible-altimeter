@@ -1,5 +1,6 @@
 app/node_modules
 app/public/index.css
 app/public/bower_components
-app/bin
+bin
 .DS_Store
+npm-debug.log
