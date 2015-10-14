@@ -39,6 +39,7 @@ $thickness:  1px; // Odd numbers created a "wobble" effect.
   left: 0;
   right: 0;
   bottom: 0;
+  background: linear-gradient(90deg, #00c6ff 10%, #0072ff 90%);
 
   animation: bgfadein 1s;
   animation-fill-mode: forwards;
@@ -100,10 +101,10 @@ $thickness:  1px; // Odd numbers created a "wobble" effect.
 }
 @include keyframes(bgfadein) {
     from {
-      background: white;
+      opacity: 0;
     }
     to {
-      background: linear-gradient(90deg, #00c6ff 10%, #0072ff 90%);
+      opacity: 1;
     }
 }
 

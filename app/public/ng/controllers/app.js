@@ -1,3 +1,3 @@
 angular.module('app').controller('AppController', function($scope) {
-  console.log('hello!')
+  $scope.shell = require('shell');
 });

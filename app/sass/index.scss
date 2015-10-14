@@ -160,11 +160,21 @@
 }
 
 html, body {
+  overflow: none;
   margin: 0;
   padding: 0;
   user-select: none;
   -webkit-user-select: none;
   cursor: default;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 @import 'loading';
