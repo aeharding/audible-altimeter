@@ -1,0 +1,20 @@
+<div class="loading-wrapper">
+  <div class="loading-prompt">
+    <div class="prompts">
+      <p>Connect to your Open Altimeter</p>
+      <p>Plug your altimeter in to begin</p>
+    </div>
+  
+    <div ng-if="!loading">
+      <div ng-if="error" class="error-message">{{error}}</div>
+      <select ng-options="device.comName for device in data.devices"
+      ng-model="data.selected"></select>
+      <button ng-click="connect(data.selected)">Connect</button>
+    </div>
+
+    <div ng-if="loading" class="loading-spinner"></div>
+
+  </div>
+
+  <p class="not-working">Not working? Click here to troubleshoot.</p>
+</div>

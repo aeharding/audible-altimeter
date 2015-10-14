@@ -1,0 +1,21 @@
+{
+  "name": "open-altimeter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aeharding/audible-altimeter",
+  "authors": [
+    "Alexander Harding <alexander.harding@software.dell.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3",
+    "angular-resource": "~1.4.7"
+  }
+}

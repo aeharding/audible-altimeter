@@ -1,0 +1,23 @@
+<ul class="bar">
+  <li ng-repeat="mode in configuration.modes"
+      ng-class="{'active': $index === activeTabIndex}"
+      ng-click="selectTab($index)">Mode {{$index}}</li>
+  <li class="disconnect">Disconnect</li>
+  <li class="program" ng-click="program()" ng-disabled="diff()">Program</li>
+</ul>
+<div class="body-wrapper">
+  <div class="altitude-wrapper">
+    <div class="alarms">
+      <h1>Freefall alarms</h1>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][0].altitude" type="configuration.modes[activeTabIndex][0].type" title='{{configuration.modes[activeTabIndex][0].altitude}}m'></altitude-range>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][1].altitude" type="configuration.modes[activeTabIndex][1].type" title='{{configuration.modes[activeTabIndex][1].altitude}}m'></altitude-range>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][2].altitude" type="configuration.modes[activeTabIndex][2].type" title='{{configuration.modes[activeTabIndex][2].altitude}}m'></altitude-range>
+    </div>
+    <div class="alarms right">
+      <h1>Canopy alarms</h1>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][5].altitude" type="configuration.modes[activeTabIndex][5].type" title='{{configuration.modes[activeTabIndex][5].altitude}}m'></altitude-range>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][6].altitude" type="configuration.modes[activeTabIndex][6].type" title='{{configuration.modes[activeTabIndex][6].altitude}}m'></altitude-range>
+      <altitude-range ng-model="configuration.modes[activeTabIndex][7].altitude" type="configuration.modes[activeTabIndex][7].type" title='{{configuration.modes[activeTabIndex][7].altitude}}m'></altitude-range>
+    </div>
+  </div>
+</div>

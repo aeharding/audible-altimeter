@@ -114,12 +114,12 @@ void loop()
     //    Serial.println(previousAltitude - currentAltitude);
     while (previousAltitude - currentAltitude > 30 && // m/s
            currentAltitude < 1371) { // 4500 ft
-      currentPressure = getPressure();
-      currentAltitude = pressure.altitude(currentPressure, basePressure);
       //      Serial.println("TRIGGER!");
       beep1s();
       previousPressure = currentPressure;
       previousAltitude = currentAltitude;
+      currentPressure = getPressure();
+      currentAltitude = pressure.altitude(currentPressure, basePressure);
     }
   }
 
@@ -136,7 +136,7 @@ void beep1s() {
   // 142.8
   int i;
   for (i = 0; i < 10; i++) {
-    tone(3, 1900);
+    tone(3, 2048);
     delay(30);
     noTone(3);
     delay(70);

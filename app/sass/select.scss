@@ -1,0 +1,16 @@
+.loading-wrapper {
+  select, button {
+    border: 1px solid white;
+    border-radius: 5px;
+    appearance: none;
+    background: none;
+    color: white;
+    height: 30px;
+  }
+  select {
+    margin-right: 5px;
+  }
+  select:focus, button:focus {
+    outline: none;
+  }
+}

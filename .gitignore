@@ -1,0 +1,4 @@
+app/node_modules
+app/public/index.css
+app/public/bower_components
+.DS_Store

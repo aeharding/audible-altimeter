@@ -1,0 +1,114 @@
+@import "bourbon";
+
+// Spinner Variables
+//********************************************************//
+$color:      #ffffff;
+$size:       40px;
+$speed:      0.75s;
+$thickness:  1px; // Odd numbers created a "wobble" effect.
+
+
+// Animation Keyframes
+//********************************************************//
+@mixin rotate-forever {
+  0%    { @include transform(rotate(0deg)); }
+  100%  { @include transform(rotate(360deg)); }
+}
+@-webkit-keyframes rotate-forever { @include rotate-forever; }
+   @-moz-keyframes rotate-forever { @include rotate-forever; }
+        @keyframes rotate-forever { @include rotate-forever; }
+
+
+// The Loading Spinner™
+//********************************************************//
+.loading-spinner {
+  @include animation-duration($speed);
+  @include animation-iteration-count(infinite);
+  @include animation-name(rotate-forever);
+  @include animation-timing-function(linear);
+  @include size($size);
+  border: $thickness solid $color;
+  border-right-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.loading-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  animation: bgfadein 1s;
+  animation-fill-mode: forwards;
+
+
+  color: white;
+  text-align: center;
+  font-family: 'lato';
+}
+
+.loading-prompt {
+  position: absolute;
+
+  width: 100%;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+
+  .prompts {
+    position: relative;
+    height: 175px;
+
+    p {
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 2em;
+      font-weight: 100;
+
+      &:nth-child(1) {
+        opacity: 0;
+        animation: fadein 16s -4s infinite;
+      }
+      &:nth-child(2) {
+        opacity: 0;
+        animation: fadein 16s 4s infinite;
+      }
+    }
+  }
+}
+
+.not-working {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 20px;
+}
+
+@include keyframes(fadein) {
+    0% { opacity: 0; }
+    20% { opacity: 0; }
+    30%   { opacity: 1; }
+    50%   { opacity: 1; }
+    70%   { opacity: 1; }
+    80%   { opacity: 0; }
+}
+@include keyframes(bgfadein) {
+    from {
+      background: white;
+    }
+    to {
+      background: linear-gradient(90deg, #00c6ff 10%, #0072ff 90%);
+    }
+}
+
+
+.error-message {
+  color: #ff774c;
+  margin-bottom: 10px;
+}

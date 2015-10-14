@@ -1,0 +1,236 @@
+// @import "compass/css3";
+
+$base-c: #d5cebc;
+
+input[type='range'] {
+  color: #0072ff;
+}
+.right input[type='range'] {
+  color: #7d4d75;
+}
+$min: 0;
+$max: 60;
+$n: $max - $min;
+$u: .5em;
+
+$ruler-line-w: .125em;
+$ruler-line-h: 1em;
+$ruler-gap: .375em;
+
+$track-w: $n*$u + $ruler-line-w;
+$track-h: .375em;
+$track-total-h: $track-h + $ruler-gap + $ruler-line-h;
+
+$thumb-d: 1.25em;
+$thumb-sf: $thumb-d/$ruler-line-w;
+$thumb-m: round(1.5*$ruler-line-h/$ruler-line-w*3);
+$thumb-sh: ();
+$thumb-u: $ruler-line-w/$thumb-sf/4;
+$thumb-sh-red: ($thumb-d - $ruler-line-w)/2/$thumb-sf;
+$thumb-sh-off: 1.56*($track-h + $ruler-gap)/$thumb-sf;
+$thumb-sh-n: ();
+$thumb-sh-n-red: ($thumb-d - $ruler-line-w)/2;
+$thumb-sh-n-off: 1.5*($track-h + $ruler-gap);
+
+// muahahaha
+@function sqrt ($x) {
+  @return 1.41421;
+}
+
+@for $i from 1 through $thumb-m {
+  $curr: $thumb-sh-off + $i*$thumb-u;  
+  $thumb-sh: $thumb-sh, 
+    $curr $curr 0 (-$thumb-sh-red);
+  
+  @if $i < .56*$thumb-m {
+    $curr-ms: $thumb-sh-n-off + $i*$ruler-line-w/2;
+    $thumb-sh-n: $thumb-sh-n, 
+      $curr-ms $curr-ms 0 (-$thumb-sh-n-red);
+  }
+}
+
+@mixin track($flag: null) {
+  width: $track-w; height: $track-total-h;
+  background: 
+    linear-gradient($base-c, $base-c) no-repeat 50% 0;
+  background-size: $track-w - if($flag == ms, $ruler-line-w, 0) $track-h;
+}
+
+@mixin fill($has-idx: false) {
+  height: $track-total-h;
+  box-shadow: inset 0 $track-h currentColor;
+  
+  @if $has-idx == false {
+    background: linear-gradient(90deg, currentColor $ruler-line-w, 
+      transparent $ruler-line-w) repeat-x 0 100%;
+    background-size: $u $ruler-line-h;
+  }
+}
+
+@mixin fill-i($idx) {
+  background: linear-gradient(90deg, currentColor $ruler-line-w, 
+    transparent $ruler-line-w) repeat-x 0 100%;
+  background-size: $u $ruler-line-h;
+}
+
+@mixin thumb($flag: null) {
+  border: none;
+  border-radius: 50% 50% 0;
+  background: currentColor;
+    
+  @if $flag == moz {
+    width: $ruler-line-w; height: $ruler-line-w;
+    box-shadow: $thumb-sh;
+    transform: translateY(-$track-total-h/2 - $thumb-d/sqrt(2)) 
+      rotate(45deg) scale($thumb-sf);
+  }
+  @else {
+    width: $thumb-d; height: $thumb-d;
+    box-shadow: $thumb-sh-n;
+    transform: translate(1px, -$track-total-h/2 - $thumb-d/sqrt(2)) 
+      rotate(45deg);
+  }
+}
+
+
+input[type='range'] {
+  &, 
+  &::-webkit-slider-runnable-track, 
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+  }
+  
+  transform: rotate(-90deg);
+  transform-origin: top left;
+  margin-top: $track-w + $thumb-d - $ruler-line-w;
+  align-self: center;
+  border: solid 0 transparent;
+  // border-width: 0 $thumb-d;
+  padding: 0;
+  width: $track-w; height: 3*$track-total-h;
+  opacity: .65;
+  background: linear-gradient(90deg, $base-c $ruler-line-w, 
+    transparent $ruler-line-w) 
+    repeat-x 0 $track-total-h + $track-h + $ruler-gap content-box;
+  background-size: $u $ruler-line-h;
+  font-size: 1em;
+  cursor: pointer;
+  
+  &::-webkit-slider-runnable-track {
+    position: relative;
+    @include track(webkit);
+  }
+  &::-moz-range-track {
+    @include track();
+  }
+  &::-ms-track {
+    margin-left: $thumb-d/2;
+    border: none;
+    @include track(ms);
+    color: transparent;
+  }
+  
+  &::-moz-range-progress {
+    @include fill();
+  }
+  &::-ms-fill-lower {
+    @include fill(false);
+  }
+  
+  &::-webkit-slider-thumb {
+    position: relative;
+    margin-left: -$ruler-line-w/2;
+    margin-top: ($track-total-h - $thumb-d)/2;
+    @include thumb();
+  }
+  &::-moz-range-thumb {
+    @include thumb(moz);
+  }
+  &::-ms-thumb {
+    @include thumb();
+  }
+  
+  &::-ms-tooltip { display: none; }
+  
+  &::-webkit-slider-runnable-track, /deep/ #track {
+    &:before, &:after {
+      position: absolute;
+      z-index: 2;
+      top: 0; left: 0;
+      width: ($thumb-d - $ruler-line-w)/2; height: 100%;
+      background: white;
+      content: '';
+    }
+    &:after { right: 0; left: auto; }
+  }
+  
+  &::-webkit-slider-thumb, /deep/ #thumb {
+    &:before {
+      position: absolute;
+      top: 50%; right: 50%;
+      width: $track-w;
+      transform-origin: 100% 0;
+      transform: rotate(-45deg) 
+        translate($ruler-line-w/2, $thumb-d/sqrt(2));
+      @include fill();
+      color: inherit;
+      content: '';
+    }
+  }
+  
+  // @for $i from 1 through 4 {
+  //   &:nth-of-type(#{$i}) {
+  //     color: nth($c, $i);
+      
+  //     &::-ms-fill-lower {
+  //       @include fill-i($i);
+  //     }
+  //   }
+  // }
+
+  &:focus {
+    outline: none;
+    opacity: .99;
+  }
+}
+
+$input-w: $track-w + $thumb-d - $ruler-line-w;
+/* Chrome/ Opera */
+input[type='range']:not(*:root) {
+  overflow: hidden;
+  width: $input-w;
+  background-position: 
+    ($thumb-d - $ruler-line-w)/2 $track-total-h + $track-h + $ruler-gap;
+}
+
+/* IE */
+_:-ms-input-placeholder, :root input[type='range'] {
+  width: $track-w + $thumb-d - $ruler-line-w;
+  background: repeating-linear-gradient(90deg, $base-c, $base-c $ruler-line-w, 
+    transparent $ruler-line-w, transparent $u) 
+    no-repeat $thumb-d/2 $track-total-h + $track-h + $ruler-gap content-box;
+  background-size: $track-w $ruler-line-h;
+}
+
+
+
+
+
+altitude-range {
+  display: inline-block;
+  width: 6em;
+  height: 31.25em;
+  position: relative;
+  input[type='range'] {
+    position: absolute;
+    top: 20px;
+    // margin-top: 30px;
+  }
+  .range-title {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: 'Lato';
+  }
+}

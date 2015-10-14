@@ -1,0 +1,18 @@
+{
+  "name": "open-altimeter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "gulp-sass": "^2.0.4",
+    "node-bourbon": "^4.2.3",
+    "serialport": "^2.0.1"
+  }
+}
